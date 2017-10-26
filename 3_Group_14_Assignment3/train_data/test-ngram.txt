@@ -1,0 +1,1000 @@
+what : 349
+who : 48
+how : 34
+when : 29
+where : 27
+first : 23
+us : 19
+state : 17
+name : 17
+year : 16
+president : 14
+called : 12
+which : 11
+city : 10
+river : 8
+population : 8
+mean : 8
+color : 8
+born : 8
+world : 7
+united : 7
+states : 7
+many : 7
+made : 7
+invented : 7
+water : 6
+north : 6
+day : 6
+currency : 6
+american : 6
+used : 5
+sun : 5
+stand : 5
+old : 5
+national : 5
+much : 5
+line : 5
+known : 5
+far : 5
+discovered : 5
+die : 5
+capital : 5
+body : 5
+york : 4
+why : 4
+use : 4
+temperature : 4
+speed : 4
+space : 4
+rate : 4
+new : 4
+john : 4
+flower : 4
+earth : 4
+dog : 4
+canada : 4
+bird : 4
+become : 4
+average : 4
+america : 4
+alaska : 4
+acid : 4
+wrote : 3
+way : 3
+two : 3
+titanic : 3
+st : 3
+satellite : 3
+rain : 3
+point : 3
+play : 3
+planet : 3
+moon : 3
+melting : 3
+make : 3
+major : 3
+longest : 3
+long : 3
+live : 3
+life : 3
+largest : 3
+kennedy : 3
+italy : 3
+human : 3
+highest : 3
+governor : 3
+gas : 3
+female : 3
+fast : 3
+date : 3
+country : 3
+colors : 3
+call : 3
+birthstone : 3
+baseball : 3
+australia : 3
+yellow : 2
+worn : 2
+word : 2
+woman : 2
+william : 2
+wife : 2
+west : 2
+weight : 2
+weigh : 2
+war : 2
+volcano : 2
+university : 2
+union : 2
+type : 2
+twins : 2
+twin : 2
+turn : 2
+transplant : 2
+texas : 2
+term : 2
+tennis : 2
+telephone : 2
+team : 2
+tax : 2
+tallest : 2
+tall : 2
+summer : 2
+store : 2
+statue : 2
+stations : 2
+star : 2
+spain : 2
+soviet : 2
+south : 2
+solar : 2
+shakespeare : 2
+sent : 2
+season : 2
+sea : 2
+sales : 2
+red : 2
+radio : 2
+province : 2
+prime : 2
+primary : 2
+presley : 2
+power : 2
+pounds : 2
+popular : 2
+place : 2
+person : 2
+percentage : 2
+per : 2
+part : 2
+park : 2
+paper : 2
+painted : 2
+osteoporosis : 2
+orange : 2
+oldest : 2
+newspaper : 2
+neil : 2
+natural : 2
+nations : 2
+nasa : 2
+mountains : 2
+mountain : 2
+mo : 2
+minnesota : 2
+minister : 2
+milky : 2
+miles : 2
+mile : 2
+measure : 2
+man : 2
+lyndon : 2
+louis : 2
+location : 2
+located : 2
+lincoln : 2
+light : 2
+liberty : 2
+league : 2
+late : 2
+language : 2
+lake : 2
+kind : 2
+killed : 2
+kentucky : 2
+johnson : 2
+issued : 2
+interest : 2
+howard : 2
+heart : 2
+hawaii : 2
+group : 2
+golf : 2
+go : 2
+get : 2
+german : 2
+gateway : 2
+french : 2
+foot : 2
+fly : 2
+field : 2
+expectancy : 2
+elvis : 2
+elephant : 2
+elected : 2
+effect : 2
+edward : 2
+dollars : 2
+disorder : 2
+disease : 2
+died : 2
+diameter : 2
+developed : 2
+crickets : 2
+county : 2
+continent : 2
+center : 2
+carbon : 2
+british : 2
+braves : 2
+begin : 2
+battle : 2
+baby : 2
+armstrong : 2
+argentina : 2
+apple : 2
+another : 2
+also : 2
+algeria : 2
+african : 2
+across : 2
+abraham : 2
+abbreviation : 2
+1957 : 2
+zip : 1
+zinc : 1
+zimbabwe : 1
+zero : 1
+zambia : 1
+yugoslavia : 1
+youngest : 1
+yellowstone : 1
+yak : 1
+xrays : 1
+xerophytes : 1
+wwii : 1
+would : 1
+worth : 1
+wizard : 1
+winkle : 1
+windsor : 1
+wind : 1
+win : 1
+wimbledon : 1
+willie : 1
+width : 1
+wide : 1
+white : 1
+wc : 1
+wayne : 1
+waterloo : 1
+walrus : 1
+walmart : 1
+wallpaper : 1
+walk : 1
+volcanoes : 1
+vitamin : 1
+viscosity : 1
+vikings : 1
+vietnam : 1
+vice : 1
+vests : 1
+vertigo : 1
+venezuela : 1
+veins : 1
+van : 1
+valentine : 1
+vaccination : 1
+utah : 1
+usps : 1
+usa : 1
+ursa : 1
+unmarried : 1
+uniform : 1
+ulysses : 1
+ulcer : 1
+types : 1
+tv : 1
+turquoise : 1
+turkeys : 1
+turkey : 1
+tunnel : 1
+tsunami : 1
+troposphere : 1
+trivial : 1
+triglycerides : 1
+treasury : 1
+tranquility : 1
+traditional : 1
+toy : 1
+towers : 1
+tower : 1
+toto : 1
+tongue : 1
+ton : 1
+tmj : 1
+tiger : 1
+ticket : 1
+thyroid : 1
+thunderstorms : 1
+throat : 1
+three : 1
+thomas : 1
+thermometer : 1
+test : 1
+territories : 1
+terms : 1
+teflon : 1
+technical : 1
+tea : 1
+target : 1
+talk : 1
+take : 1
+suspension : 1
+susan : 1
+surface : 1
+supernova : 1
+sunspots : 1
+structure : 1
+strongest : 1
+strong : 1
+strike : 1
+stretches : 1
+strep : 1
+street : 1
+streak : 1
+strait : 1
+story : 1
+stone : 1
+stimulant : 1
+start : 1
+stamp : 1
+spots : 1
+sport : 1
+spoken : 1
+spleen : 1
+spirometer : 1
+spider : 1
+spelled : 1
+span : 1
+spacecraft : 1
+source : 1
+sound : 1
+sos : 1
+sonar : 1
+solstice : 1
+solo : 1
+sodium : 1
+soda : 1
+snails : 1
+smith : 1
+smallest : 1
+small : 1
+slinky : 1
+sleep : 1
+sitting : 1
+sistine : 1
+sink : 1
+silver : 1
+signature : 1
+side : 1
+show : 1
+shot : 1
+shiva : 1
+ships : 1
+ship : 1
+shepard : 1
+shawnee : 1
+shaman : 1
+severance : 1
+service : 1
+serve : 1
+series : 1
+separates : 1
+semolina : 1
+semiconductors : 1
+seize : 1
+seattle : 1
+sears : 1
+seaport : 1
+scientific : 1
+schizophrenia : 1
+scale : 1
+savannah : 1
+sauce : 1
+san : 1
+runs : 1
+ruler : 1
+roy : 1
+rowe : 1
+rouge : 1
+rosa : 1
+roller : 1
+role : 1
+roger : 1
+rocky : 1
+rip : 1
+ride : 1
+rheumatoid : 1
+representative : 1
+rent : 1
+remove : 1
+relative : 1
+refrigerator : 1
+reform : 1
+reefs : 1
+real : 1
+reach : 1
+range : 1
+rainiest : 1
+raided : 1
+raid : 1
+radium : 1
+quicksilver : 1
+quaaludes : 1
+pursuit : 1
+pure : 1
+purchased : 1
+pulmonary : 1
+publishing : 1
+propylene : 1
+proper : 1
+program : 1
+professional : 1
+produced : 1
+prize : 1
+prism : 1
+prince : 1
+prevent : 1
+pregnant : 1
+precious : 1
+position : 1
+populate : 1
+ponce : 1
+polymers : 1
+polymer : 1
+pollution : 1
+poliomyelitis : 1
+polio : 1
+poles : 1
+pole : 1
+polaroid : 1
+poland : 1
+poison : 1
+points : 1
+pneumonia : 1
+pluto : 1
+platelets : 1
+plastic : 1
+plant : 1
+planets : 1
+plane : 1
+pink : 1
+pilates : 1
+phosphorus : 1
+phoenix : 1
+philosopher : 1
+philippines : 1
+phi : 1
+phenylalanine : 1
+ph : 1
+peyote : 1
+pesos : 1
+perth : 1
+persia : 1
+period : 1
+people : 1
+penn : 1
+peninsula : 1
+pediatricians : 1
+pectin : 1
+pay : 1
+patrick : 1
+pathogens : 1
+pastrami : 1
+party : 1
+parks : 1
+parasite : 1
+panic : 1
+palsy : 1
+pacific : 1
+ozone : 1
+oz : 1
+oxygen : 1
+output : 1
+outdated : 1
+orinoco : 1
+organize : 1
+order : 1
+opened : 1
+('what', 'is') : 206
+('is', 'the') : 126
+('was', 'the') : 31
+('what', 'are') : 27
+('in', 'the') : 24
+('of', 'the') : 23
+('the', 'first') : 21
+('who', 'was') : 20
+('where', 'is') : 19
+('what', 'does') : 16
+('when', 'was') : 14
+('what', 'year') : 14
+('the', 'us') : 13
+('year', 'did') : 11
+('did', 'the') : 10
+('are', 'the') : 10
+('what', 'was') : 9
+('the', 'name') : 9
+('who', 'is') : 8
+('name', 'of') : 8
+('is', 'an') : 8
+('us', 'what') : 7
+('how', 'many') : 7
+('who', 'invented') : 6
+('when', 'did') : 6
+('what', 'color') : 6
+('united', 'states') : 6
+('the', 'world') : 6
+('the', 'united') : 6
+('mean', 'what') : 6
+('in', 'what') : 6
+('has', 'the') : 6
+('does', 'the') : 6
+('do', 'you') : 6
+('called', 'what') : 6
+('born', 'what') : 6
+('when', 'is') : 5
+('what', 'do') : 5
+('what', 'city') : 5
+('the', 'sun') : 5
+('the', 'population') : 5
+('the', 'most') : 5
+('the', 'capital') : 5
+('stand', 'for') : 5
+('president', 'of') : 5
+('population', 'of') : 5
+('on', 'the') : 5
+('invented', 'the') : 5
+('how', 'much') : 5
+('how', 'far') : 5
+('from', 'the') : 5
+('for', 'what') : 5
+('capital', 'of') : 5
+('who', 'discovered') : 4
+('what', 'currency') : 4
+('to', 'the') : 4
+('the', 'average') : 4
+('states', 'what') : 4
+('of', 'what') : 4
+('new', 'york') : 4
+('made', 'of') : 4
+('known', 'as') : 4
+('how', 'old') : 4
+('for', 'the') : 4
+('far', 'is') : 4
+('die', 'what') : 4
+('color', 'is') : 4
+('as', 'the') : 4
+('alaska', 'what') : 4
+('you', 'call') : 3
+('year', 'was') : 3
+('wrote', 'the') : 3
+('world', 'what') : 3
+('where', 'are') : 3
+('what', 'state') : 3
+('what', 'river') : 3
+('was', 'president') : 3
+('the', 'titanic') : 3
+('the', 'temperature') : 3
+('the', 'speed') : 3
+('the', 'moon') : 3
+('the', 'longest') : 3
+('the', 'largest') : 3
+('the', 'human') : 3
+('the', 'earth') : 3
+('state', 'flower') : 3
+('state', 'bird') : 3
+('speed', 'of') : 3
+('space', 'what') : 3
+('president', 'to') : 3
+('population', 'what') : 3
+('old', 'was') : 3
+('of', 'water') : 3
+('of', 'alaska') : 3
+('name', 'what') : 3
+('name', 'for') : 3
+('melting', 'point') : 3
+('italy', 'what') : 3
+('is', 'used') : 3
+('into', 'space') : 3
+('how', 'long') : 3
+('how', 'fast') : 3
+('first', 'us') : 3
+('fast', 'is') : 3
+('day', 'what') : 3
+('city', 'in') : 3
+('become', 'state') : 3
+('at', 'the') : 3
+('are', 'there') : 3
+('american', 'to') : 3
+('you', 'have') : 2
+('world', 'population') : 2
+('why', 'is') : 2
+('who', 'wrote') : 2
+('who', 'developed') : 2
+('which', 'country') : 2
+('where', 'do') : 2
+('what', 'type') : 2
+('what', 'planet') : 2
+('what', 'kind') : 2
+('what', 'french') : 2
+('what', 'did') : 2
+('what', 'date') : 2
+('what', 'county') : 2
+('what', 'continent') : 2
+('weight', 'of') : 2
+('water', 'are') : 2
+('was', 'abraham') : 2
+('war', 'what') : 2
+('used', 'in') : 2
+('used', 'for') : 2
+('use', 'what') : 2
+('use', 'in') : 2
+('us', 'president') : 2
+('type', 'of') : 2
+('to', 'make') : 2
+('to', 'be') : 2
+('they', 'use') : 2
+('there', 'in') : 2
+('the', 'volcano') : 2
+('the', 'two') : 2
+('the', 'twin') : 2
+('the', 'telephone') : 2
+('the', 'tallest') : 2
+('the', 'statue') : 2
+('the', 'state') : 2
+('the', 'sales') : 2
+('the', 'only') : 2
+('the', 'oldest') : 2
+('the', 'north') : 2
+('the', 'national') : 2
+('the', 'milky') : 2
+('the', 'melting') : 2
+('the', 'location') : 2
+('the', 'life') : 2
+('the', 'late') : 2
+('the', 'highest') : 2
+('the', 'gateway') : 2
+('the', 'effect') : 2
+('the', 'birthstone') : 2
+('the', 'battle') : 2
+('the', 'abbreviation') : 2
+('that', 'the') : 2
+('temperature', 'what') : 2
+('tall', 'is') : 2
+('sun', 'what') : 2
+('statue', 'of') : 2
+('state', 'what') : 2
+('state', 'of') : 2
+('star', 'what') : 2
+('st', 'louis') : 2
+('sent', 'into') : 2
+('sales', 'tax') : 2
+('river', 'what') : 2
+('river', 'in') : 2
+('rate', 'in') : 2
+('rain', 'what') : 2
+('radio', 'stations') : 2
+('province', 'is') : 2
+('prime', 'minister') : 2
+('point', 'of') : 2
+('percentage', 'of') : 2
+('part', 'of') : 2
+('on', 'what') : 2
+('of', 'light') : 2
+('of', 'liberty') : 2
+('of', 'canada') : 2
+('north', 'america') : 2
+('newspaper', 'is') : 2
+('neil', 'armstrong') : 2
+('natural', 'gas') : 2
+('national', 'park') : 2
+('nasa', 'stand') : 2
+('much', 'does') : 2
+('mountains', 'what') : 2
+('most', 'popular') : 2
+('minnesota', 'what') : 2
+('minister', 'of') : 2
+('milky', 'way') : 2
+('made', 'from') : 2
+('lyndon', 'johnson') : 2
+('louis', 'mo') : 2
+('long', 'is') : 2
+('location', 'of') : 2
+('live', 'what') : 2
+('line', 'is') : 2
+('light', 'what') : 2
+('life', 'expectancy') : 2
+('largest', 'city') : 2
+('language', 'in') : 2
+('kind', 'of') : 2
+('john', 'kennedy') : 2
+('is', 'on') : 2
+('is', 'known') : 2
+('is', 'group') : 2
+('is', 'called') : 2
+('is', 'baby') : 2
+('is', 'another') : 2
+('is', 'also') : 2
+('in', 'who') : 2
+('in', 'which') : 2
+('in', 'tennis') : 2
+('in', 'miles') : 2
+('in', 'italy') : 2
+('in', '1957') : 2
+('human', 'body') : 2
+('how', 'tall') : 2
+('group', 'of') : 2
+('governor', 'of') : 2
+('from', 'what') : 2
+('for', 'how') : 2
+('first', 'woman') : 2
+('first', 'african') : 2
+('elvis', 'presley') : 2
+('effect', 'of') : 2
+('during', 'which') : 2
+('do', 'what') : 2
+('do', 'most') : 2
+('did', 'john') : 2
+('developed', 'the') : 2
+('currency', 'is') : 2
+('currency', 'does') : 2
+('county', 'is') : 2
+('continent', 'is') : 2
+('city', 'newspaper') : 2
+('city', 'has') : 2
+('center', 'of') : 2
+('called', 'the') : 2
+('called', 'how') : 2
+('bird', 'what') : 2
+('begin', 'what') : 2
+('battle', 'of') : 2
+('baseball', 'team') : 2
+('america', 'what') : 2
+('also', 'known') : 2
+('african', 'american') : 2
+('across', 'the') : 2
+('acid', 'what') : 2
+('acid', 'rain') : 2
+('abraham', 'lincoln') : 2
+('1957', 'what') : 2
+('zip', 'code') : 1
+('zinc', 'when') : 1
+('zimbabwe', 'what') : 1
+('zero', 'points') : 1
+('zambia', 'how') : 1
+('yugoslavia', 'where') : 1
+('your', 'spleen') : 1
+('youngest', 'president') : 1
+('you', 'mix') : 1
+('you', 'measure') : 1
+('you', 'find') : 1
+('york', 'the') : 1
+('york', 'state') : 1
+('york', 'developing') : 1
+('york', 'city') : 1
+('yellowstone', 'national') : 1
+('yellow', 'what') : 1
+('yellow', 'labrador') : 1
+('year', 'who') : 1
+('year', 'that') : 1
+('yak', 'milk') : 1
+('xrays', 'which') : 1
+('xerophytes', 'what') : 1
+('wwii', 'begin') : 1
+('would', 'you') : 1
+('worth', 'what') : 1
+('worn', 'what') : 1
+('worn', 'or') : 1
+('world', 'series') : 1
+('world', 'fair') : 1
+('word', 'that') : 1
+('word', 'fortnight') : 1
+('won', 'the') : 1
+('won', 'ms') : 1
+('woman', 'killed') : 1
+('woman', 'governor') : 1
+('wizard', 'of') : 1
+('with', 'worn') : 1
+('with', 'strong') : 1
+('what', 'is', 'the') : 94
+('was', 'the', 'first') : 20
+('who', 'was', 'the') : 16
+('where', 'is', 'the') : 14
+('what', 'year', 'did') : 11
+('the', 'name', 'of') : 8
+('in', 'the', 'us') : 8
+('year', 'did', 'the') : 7
+('what', 'is', 'an') : 7
+('the', 'us', 'what') : 7
+('is', 'the', 'name') : 7
+('who', 'is', 'the') : 6
+('when', 'was', 'the') : 6
+('what', 'are', 'the') : 6
+('called', 'what', 'is') : 6
+('who', 'invented', 'the') : 5
+('what', 'was', 'the') : 5
+('us', 'what', 'is') : 5
+('the', 'united', 'states') : 5
+('the', 'population', 'of') : 5
+('the', 'capital', 'of') : 5
+('name', 'of', 'the') : 5
+('mean', 'what', 'is') : 5
+('is', 'the', 'population') : 5
+('is', 'the', 'capital') : 5
+('born', 'what', 'is') : 5
+('what', 'does', 'the') : 4
+('what', 'color', 'is') : 4
+('stand', 'for', 'what') : 4
+('president', 'of', 'the') : 4
+('of', 'what', 'is') : 4
+('made', 'of', 'what') : 4
+('known', 'as', 'the') : 4
+('is', 'the', 'average') : 4
+('in', 'what', 'is') : 4
+('how', 'far', 'is') : 4
+('for', 'what', 'is') : 4
+('where', 'are', 'the') : 3
+('what', 'year', 'was') : 3
+('what', 'do', 'you') : 3
+('united', 'states', 'what') : 3
+('the', 'world', 'what') : 3
+('the', 'first', 'us') : 3
+('states', 'what', 'is') : 3
+('of', 'alaska', 'what') : 3
+('is', 'the', 'temperature') : 3
+('is', 'the', 'speed') : 3
+('is', 'the', 'most') : 3
+('is', 'the', 'longest') : 3
+('in', 'the', 'world') : 3
+('how', 'old', 'was') : 3
+('how', 'fast', 'is') : 3
+('do', 'you', 'call') : 3
+('die', 'what', 'is') : 3
+('city', 'in', 'the') : 3
+('alaska', 'what', 'is') : 3
+('world', 'population', 'what') : 2
+('who', 'wrote', 'the') : 2
+('who', 'developed', 'the') : 2
+('when', 'is', 'the') : 2
+('what', 'type', 'of') : 2
+('what', 'kind', 'of') : 2
+('what', 'is', 'group') : 2
+('what', 'is', 'baby') : 2
+('what', 'is', 'another') : 2
+('what', 'currency', 'does') : 2
+('what', 'county', 'is') : 2
+('what', 'continent', 'is') : 2
+('what', 'city', 'newspaper') : 2
+('was', 'the', 'name') : 2
+('was', 'abraham', 'lincoln') : 2
+('use', 'what', 'is') : 2
+('us', 'president', 'to') : 2
+('they', 'use', 'in') : 2
+('the', 'world', 'population') : 2
+('the', 'sun', 'what') : 2
+('the', 'statue', 'of') : 2
+('the', 'speed', 'of') : 2
+('the', 'sales', 'tax') : 2
+('the', 'most', 'popular') : 2
+('the', 'milky', 'way') : 2
+('the', 'melting', 'point') : 2
+('the', 'location', 'of') : 2
+('the', 'life', 'expectancy') : 2
+('the', 'largest', 'city') : 2
+('the', 'human', 'body') : 2
+('the', 'first', 'woman') : 2
+('the', 'first', 'african') : 2
+('the', 'effect', 'of') : 2
+('the', 'battle', 'of') : 2
+('tall', 'is', 'the') : 2
+('statue', 'of', 'liberty') : 2
+('state', 'what', 'is') : 2
+('state', 'bird', 'what') : 2
+('star', 'what', 'is') : 2
+('st', 'louis', 'mo') : 2
+('speed', 'of', 'light') : 2
+('space', 'what', 'is') : 2
+('sent', 'into', 'space') : 2
+('river', 'what', 'is') : 2
+('prime', 'minister', 'of') : 2
+('population', 'what', 'is') : 2
+('of', 'water', 'are') : 2
+('of', 'the', 'us') : 2
+('of', 'the', 'united') : 2
+('of', 'light', 'what') : 2
+('newspaper', 'is', 'called') : 2
+('nasa', 'stand', 'for') : 2
+('minister', 'of', 'canada') : 2
+('melting', 'point', 'of') : 2
+('made', 'from', 'what') : 2
+('largest', 'city', 'in') : 2
+('italy', 'what', 'is') : 2
+('is', 'used', 'in') : 2
+('is', 'the', 'volcano') : 2
+('is', 'the', 'tallest') : 2
+('is', 'the', 'sales') : 2
+('is', 'the', 'only') : 2
+('is', 'the', 'oldest') : 2
+('is', 'the', 'milky') : 2
+('is', 'the', 'melting') : 2
+('is', 'the', 'location') : 2
+('is', 'the', 'life') : 2
+('is', 'the', 'largest') : 2
+('is', 'the', 'effect') : 2
+('is', 'the', 'birthstone') : 2
+('is', 'known', 'as') : 2
+('is', 'group', 'of') : 2
+('is', 'called', 'the') : 2
+('is', 'also', 'known') : 2
+('into', 'space', 'what') : 2
+('in', 'who', 'was') : 2
+('in', 'the', 'united') : 2
+('in', 'the', 'late') : 2
+('in', 'the', 'human') : 2
+('in', 'italy', 'what') : 2
+('in', '1957', 'what') : 2
+('how', 'tall', 'is') : 2
+('how', 'much', 'does') : 2
+('how', 'long', 'is') : 2
+('governor', 'of', 'alaska') : 2
+('for', 'how', 'long') : 2
+('first', 'us', 'president') : 2
+('first', 'african', 'american') : 2
+('do', 'what', 'is') : 2
+('did', 'the', 'titanic') : 2
+('currency', 'is', 'used') : 2
+('city', 'newspaper', 'is') : 2
+('city', 'has', 'the') : 2
+('center', 'of', 'the') : 2
+('bird', 'what', 'is') : 2
+('begin', 'what', 'is') : 2
+('become', 'state', 'what') : 2
+('are', 'there', 'in') : 2
+('are', 'the', 'two') : 2
+('america', 'what', 'is') : 2
+('also', 'known', 'as') : 2
+('african', 'american', 'to') : 2
+('acid', 'rain', 'what') : 2
+('zip', 'code', 'of') : 1
+('zinc', 'when', 'did') : 1
+('zimbabwe', 'what', 'does') : 1
+('zero', 'points', 'called') : 1
+('zambia', 'how', 'many') : 1
+('yugoslavia', 'where', 'is') : 1
+('your', 'spleen', 'do') : 1
+('youngest', 'president', 'of') : 1
+('you', 'mix', 'to') : 1
+('you', 'measure', 'earthquakes') : 1
+('you', 'have', 'to') : 1
+('you', 'have', 'per') : 1
+('you', 'find', 'the') : 1
+('you', 'call', 'word') : 1
+('you', 'call', 'professional') : 1
+('you', 'call', 'newborn') : 1
+('york', 'the', 'statue') : 1
+('york', 'state', 'bird') : 1
+('york', 'developing', 'nations') : 1
+('york', 'city', 'structure') : 1
+('yellowstone', 'national', 'park') : 1
+('yellow', 'what', 'is') : 1
+('yellow', 'labrador', 'who') : 1
+('year', 'who', 'founded') : 1
+('year', 'was', 'the') : 1
+('year', 'was', 'mozart') : 1
+('year', 'was', 'it') : 1
+('year', 'that', 'the') : 1
+('year', 'did', 'wwii') : 1
+('year', 'did', 'oklahoma') : 1
+('year', 'did', 'mussolini') : 1
+('year', 'did', 'canada') : 1
+('yak', 'milk', 'what') : 1
+('xrays', 'which', 'comedian') : 1
+('xerophytes', 'what', 'country') : 1
+('wwii', 'begin', 'what') : 1
+('wrote', 'the', 'music') : 1
+('wrote', 'the', 'hymn') : 1
+('wrote', 'the', 'divine') : 1
+('would', 'you', 'find') : 1
+('worth', 'what', 'in') : 1

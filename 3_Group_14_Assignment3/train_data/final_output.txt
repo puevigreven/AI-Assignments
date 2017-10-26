@@ -1,0 +1,500 @@
+How far is it from Denver to Aspen : NUM
+What county is Modesto  California in : ABBR
+Who was Galileo : HUM
+What is an atom : ABBR
+When did Hawaii become a state : NUM
+How tall is the Sears Building : ABBR
+George Bush purchased a small interest in which baseball team : ABBR
+What is Australia s national flower : ABBR
+Why does the moon turn orange : ABBR
+What is autism : ABBR
+What city had a world fair in 1900 : LOC
+What person s head is on a dime : ABBR
+What is the average weight of a Yellow Labrador : ABBR
+Who was the first man to fly across the Pacific Ocean : HUM
+When did Idaho become a state : NUM
+What is the life expectancy for crickets : ABBR
+What metal has the highest melting point : LOC
+Who developed the vaccination against polio : HUM
+What is epilepsy : ABBR
+What year did the Titanic sink : NUM
+Who was the first American to walk in space : HUM
+What is a biosphere : ABBR
+What river in the US is known as the Big Muddy : ABBR
+What is bipolar disorder : ABBR
+What is cholesterol : ABBR
+Who developed the Macintosh computer : HUM
+What is caffeine : ABBR
+What imaginary line is halfway between the North and South Poles : ABBR
+Where is John Wayne airport : LOC
+What hemisphere is the Philippines in : ABBR
+What is the average speed of the horses at the Kentucky Derby : ABBR
+Where are the Rocky Mountains : ABBR
+What are invertebrates : LOC
+What is the temperature at the center of the earth : ABBR
+When did John F Kennedy get elected as President : NUM
+How old was Elvis Presley when he died : NUM
+Where is the Orinoco River : LOC
+How far is the service line from the net in tennis : ABBR
+How much fiber should you have per day : NUM
+How many Great Lakes are there : NUM
+Material called linen is made from what plant : ABBR
+What is Teflon : ABBR
+What is amitriptyline : ABBR
+What is a shaman : ABBR
+What is the proper name for a female walrus : ABBR
+What is a group of turkeys called : ABBR
+How long did Rip Van Winkle sleep : NUM
+What are triglycerides : LOC
+How many liters in a gallon : NUM
+What is the name of the chocolate company in San Francisco : ABBR
+What are amphibians : LOC
+Who discovered xrays : HUM
+Which comedian s signature line is  Can we talk : HUM
+What is fibromyalgia : ABBR
+What is done with worn or outdated flags : ABBR
+What does cc in engines mean : ABBR
+When did Elvis Presley die : NUM
+What is the capital of Yugoslavia : ABBR
+Where is Milan : LOC
+What is the speed hummingbirds fly : ABBR
+What is the oldest city in the United States : LOC
+What was WC Fields  real name : ABBR
+What river flows between Fargo  North Dakota and Moorhead  Minnesota : ABBR
+What do bats eat : ABBR
+What state did the Battle of Bighorn take place in : LOC
+Who was Abraham Lincoln : HUM
+What do you call a newborn kangaroo : ABBR
+What are spider veins : LOC
+What day and month did John Lennon die : ABBR
+What strait separates North America from Asia : ABBR
+What is the population of Seattle : ABBR
+How much was a ticket for the Titanic : NUM
+What is the largest city in the world : LOC
+What American composer wrote the music for  West Side Story : ABBR
+Where is the Mall of the America : LOC
+What is the pH scale : ABBR
+What type of currency is used in Australia : ABBR
+How tall is the Gateway Arch in St Louis  MO : ABBR
+How much does the human adult female brain weigh : ABBR
+Who was the first governor of Alaska : HUM
+What is a prism : ABBR
+When was the first liver transplant : NUM
+Who was elected president of South Africa in 1994 : HUM
+What is the population of China : ABBR
+When was Rosa Parks born : ABBR
+Why is a ladybug helpful : DESC
+What is amoxicillin : ABBR
+Who was the first female United States Representative : HUM
+What are xerophytes : LOC
+What country did Ponce de Leon come from : LOC
+The US Department of Treasury first issued paper currency for the US during which war : ABBR
+What is desktop publishing : ABBR
+What is the temperature of the sun s surface : ABBR
+What year did Canada join the United Nations : NUM
+What is the oldest university in the US : ABBR
+Where is Prince Edward Island : LOC
+Mercury  what year was it discovered : NUM
+What is cryogenics : ABBR
+What are coral reefs : LOC
+What is the longest major league baseballwinning streak : ABBR
+What is neurology : ABBR
+Who invented the calculator : HUM
+How do you measure earthquakes : DESC
+Who is Duke Ellington : HUM
+What county is Phoenix  AZ in : ABBR
+What is a micron : ABBR
+The sun s core  what is the temperature : ABBR
+What is the Ohio state bird : ABBR
+When were William Shakespeare s twins born : ABBR
+What is the highest dam in the US : ABBR
+What color is a poison arrow frog : ENTY
+What is acupuncture : ABBR
+What is the length of the coastline of the state of Alaska : ABBR
+What is the name of Neil Armstrong s wife : ENTY
+What is Hawaii s state flower : ABBR
+Who won Ms American in 1989 : ABBR
+When did the Hindenberg crash : NUM
+What mineral helps prevent osteoporosis : ENTY
+What was the last year that the Chicago Cubs won the World Series : ABBR
+Where is Perth : LOC
+What year did WWII begin : NUM
+What is the diameter of a golf ball : ABBR
+What is an eclipse : ABBR
+Who discovered America : HUM
+What is the earth s diameter : ABBR
+Which president was unmarried : HUM
+How wide is the Milky Way galaxy : NUM
+During which season do most thunderstorms occur : ENTY
+What is Wimbledon : ABBR
+What is the gestation period for a cat : ABBR
+How far is a nautical mile : NUM
+Who was the abolitionist who led the raid on Harper s Ferry in 1859 : HUM
+What does target heart rate mean : ABBR
+What was the first satellite to go into space : HUM
+What is foreclosure : ABBR
+What is the major fault line near Kentucky : ABBR
+Where is the Holland Tunnel : LOC
+Who wrote the hymn  Amazing Grace : HUM
+What position did Willie Davis play in baseball : ABBR
+What are platelets : LOC
+What is severance pay : ABBR
+What is the name of Roy Roger s dog : ENTY
+Where are the National Archives : ABBR
+What is a baby turkey called : ABBR
+What is poliomyelitis : ABBR
+What is the longest bone in the human body : ABBR
+Who is a German philosopher : HUM
+What were Christopher Columbus  three ships : ABBR
+What does Phi Beta Kappa mean : ABBR
+What is nicotine : ABBR
+What is another name for vitamin B1 : ABBR
+Who discovered radium : HUM
+What are sunspots : LOC
+When was Algeria colonized : NUM
+What baseball team was the first to make numbers part of their uniform : ABBR
+What continent is Egypt on : ABBR
+What is the capital of Mongolia : ABBR
+What is nanotechnology : ABBR
+In the late 1700 s British convicts were used to populate which colony : ABBR
+What state is the geographic center of the lower 48 states : ABBR
+What is an obtuse angle : ABBR
+What are polymers : LOC
+When is hurricane season in the Caribbean : ABBR
+Where is the volcano Mauna Loa : LOC
+What is another astronomic term for the Northern Lights : ABBR
+What peninsula is Spain part of : ABBR
+When was Lyndon B Johnson born : NUM
+What is acetaminophen : ABBR
+What state has the least amount of rain per year : ABBR
+Who founded American Red Cross : ABBR
+What year did the Milwaukee Braves become the Atlanta Braves : NUM
+How fast is alcohol absorbed : NUM
+When is the summer solstice : ABBR
+What is supernova : ABBR
+Where is the Shawnee National Forest : LOC
+What US state s motto is  Live free or Die : ABBR
+Where is the Lourve : LOC
+When was the first stamp issued : NUM
+What primary colors do you mix to make orange : ABBR
+How far is Pluto from the sun : NUM
+What body of water are the Canary Islands in : ABBR
+What is neuropathy : ABBR
+Where is the Euphrates River : LOC
+What is cryptography : ABBR
+What is natural gas composed of : ABBR
+Who is the Prime Minister of Canada : HUM
+What French ruler was defeated at the battle of Waterloo : ABBR
+What is leukemia : ABBR
+Where did Howard Hughes die : LOC
+What is the birthstone for June : ABBR
+What is the sales tax in Minnesota : ABBR
+What is the distance in miles from the earth to the sun : ABBR
+What is the average life span for a chicken : ABBR
+When was the first WalMart store opened : NUM
+What is relative humidity : ABBR
+What city has the zip code of 35824 : LOC
+What currency is used in Algeria : ABBR
+Who invented the hula hoop : HUM
+What was the most popular toy in 1957 : ENTY
+What is pastrami made of : ABBR
+What is the name of the satellite that the Soviet Union sent into space in 1957 : ABBR
+What city s newspaper is called  The Enquirer : LOC
+Who invented the slinky : HUM
+What are the animals that don t have backbones called : ABBR
+What is the melting point of copper : ABBR
+Where is the volcano Olympus Mons located : LOC
+Who was the 23rd president of the United States : HUM
+What is the average body temperature : ABBR
+What does a defibrillator do : ABBR
+What is the effect of acid rain : ABBR
+What year did the United States abolish the draft : NUM
+How fast is the speed of light : ABBR
+What province is Montreal in : LOC
+What New York City structure is also known as the Twin Towers : ABBR
+What is fungus : ABBR
+What is the most frequently spoken language in the Netherlands : ABBR
+What is sodium chloride : ABBR
+What are the spots on dominoes called : LOC
+How many pounds in a ton : NUM
+What is influenza : ABBR
+What is ozone depletion : ABBR
+What year was the Mona Lisa painted : NUM
+What does  Sitting Shiva  mean : ABBR
+What is the electrical output in Madrid  Spain : ABBR
+Which mountain range in North America stretches from Maine to Georgia : LOC
+What is plastic made of : ABBR
+What is the population of Nigeria : ABBR
+What does your spleen do : ABBR
+Where is the Grand Canyon : LOC
+Who invented the telephone : HUM
+What year did the US buy Alaska : NUM
+What is the name of the leader of Ireland : ABBR
+What is phenylalanine : ABBR
+How many gallons of water are there in a cubic foot : NUM
+What are the two houses of the Legislative branch : LOC
+What is sonar : ABBR
+In Poland  where do most people live : LOC
+What is phosphorus : ABBR
+What is the location of the Sea of Tranquility : ABBR
+How fast is sound : NUM
+What French province is cognac produced in : ABBR
+What is Valentine s Day : ABBR
+What causes gray hair : DESC
+What is hypertension : ABBR
+What is bandwidth : ABBR
+What is the longest suspension bridge in the US : ABBR
+What is a parasite : ABBR
+What is home equity : ABBR
+What do meteorologists do : ENTY
+What is the criterion for being legally blind : ABBR
+Who is the tallest man in the world : HUM
+What are the twin cities : LOC
+What did Edward Binney and Howard Smith invent in 1903 : ABBR
+What is the statue of liberty made of : ABBR
+What is pilates : ABBR
+What planet is known as the  red  planet : ABBR
+What is the depth of the Nile river : ABBR
+What is the colorful Korean traditional dress called : ABBR
+What is Mardi Gras : ABBR
+Mexican pesos are worth what in US dollars : ABBR
+Who was the first African American to play for the Brooklyn Dodgers : HUM
+Who was the first Prime Minister of Canada : HUM
+How many Admirals are there in the US Navy : NUM
+What instrument did Glenn Miller play : ENTY
+How old was Joan of Arc when she died : NUM
+What does the word fortnight mean : ABBR
+What is dianetics : ABBR
+What is the capital of Ethiopia : ABBR
+For how long is an elephant pregnant : NUM
+How did Janice Joplin die : NUM
+What is the primary language in Iceland : ABBR
+What is the difference between AM radio stations and FM radio stations : ABBR
+What is osteoporosis : ABBR
+Who was the first woman governor in the US : HUM
+What is peyote : ABBR
+What is the esophagus used for : ABBR
+What is viscosity : ABBR
+What year did Oklahoma become a state : NUM
+What is the abbreviation for Texas : ABBR
+What is a mirror made out of : ABBR
+Where on the body is a mortarboard worn : LOC
+What was JFK s wife s name : ENTY
+What does IV stand for : ABBR
+What is the chunnel : ABBR
+Where is Hitler buried : LOC
+What are antacids : LOC
+What is pulmonary fibrosis : ABBR
+What are Quaaludes : LOC
+What is naproxen : ABBR
+What is strep throat : ABBR
+What is the largest city in the US : LOC
+What is foot and mouth disease : ABBR
+What is the life expectancy of a dollar bill : ABBR
+What do you call a professional map drawer : ABBR
+What are Aborigines : LOC
+What is hybridization : ABBR
+What color is indigo : ENTY
+How old do you have to be in order to rent a car in Italy : ABBR
+What does a barometer measure : ABBR
+What color is a giraffe s tongue : ENTY
+What does USPS stand for : ABBR
+What year did the NFL go on strike : NUM
+What is solar wind : ABBR
+What date did Neil Armstrong land on the moon : ABBR
+When was Hiroshima bombed : NUM
+Where is the Savannah River : LOC
+Who was the first woman killed in the Vietnam War : HUM
+What planet has the strongest magnetic field of all the planets : ABBR
+Who is the governor of Alaska : HUM
+What year did Mussolini seize power in Italy : NUM
+What is the capital of Persia : ABBR
+Where is the Eiffel Tower : LOC
+How many hearts does an octopus have : NUM
+What is pneumonia : ABBR
+What is the deepest lake in the US : ABBR
+What is a fuel cell : ABBR
+Who was the first US president to appear on TV : HUM
+Where is the Little League Museum : ABBR
+What are the two types of twins : ABBR
+What is the brightest star : ABBR
+What is diabetes : ABBR
+When was President Kennedy shot : ABBR
+What is TMJ : ABBR
+What color is yak milk : ENTY
+What date was Dwight D Eisenhower born : ABBR
+What does the technical term ISDN mean : ABBR
+Why is the sun yellow : ABBR
+What is the conversion rate between dollars and pounds : ABBR
+When was Abraham Lincoln born : NUM
+What is the Milky Way : ABBR
+What is mold : ABBR
+What year was Mozart born : NUM
+What is a group of frogs called : ABBR
+What is the name of William Penn s ship : ABBR
+What is the melting point of gold : ABBR
+What is the street address of the White House : ABBR
+What is semolina : ABBR
+What fruit is Melba sauce made from : ABBR
+What is Ursa Major : ABBR
+What is the percentage of water content in the human body : ABBR
+How much does water weigh : NUM
+What was President Lyndon Johnson s reform program called : HUM
+What is the murder rate in Windsor  Ontario : ABBR
+Who is the only president to serve 2 nonconsecutive terms : ABBR
+What is the population of Australia : ABBR
+Who painted the ceiling of the Sistine Chapel : HUM
+Name a stimulant : HUM
+What is the effect of volcanoes on the climate : ABBR
+What year did the Andy Griffith show begin : NUM
+What is acid rain : ABBR
+What is the date of Mexico s independence : ABBR
+What is the location of Lake Champlain : ABBR
+What is the Illinois state flower : ABBR
+What is Maryland s state bird : ABBR
+What is quicksilver : ABBR
+Who wrote  The Divine Comedy : HUM
+What is the speed of light : ABBR
+What is the width of a football field : ABBR
+Why in tennis are zero points called love : DESC
+What kind of dog was Toto in the Wizard of Oz : ABBR
+What is a thyroid : ABBR
+What does ciao mean : ABBR
+What is the only artery that carries blue blood from the heart to the lungs : ABBR
+How often does Old Faithful erupt at Yellowstone National Park : ABBR
+What is acetic acid : ABBR
+What is the elevation of St Louis  MO : ABBR
+What color does litmus paper turn when it comes into contact with a strong acid : ABBR
+What are the colors of the German flag : ABBR
+What is the Moulin Rouge : ABBR
+What soviet seaport is on the Black Sea : ABBR
+What is the atomic weight of silver : ABBR
+What currency do they use in Brazil : ABBR
+What are pathogens : LOC
+What is mad cow disease : ABBR
+Name a food high in zinc : LOC
+When did North Carolina enter the union : NUM
+Where do apple snails live : LOC
+What are ethics : LOC
+What does CPR stand for : ABBR
+What is an annuity : ABBR
+Who killed John F Kennedy : HUM
+Who was the first vice president of the US : HUM
+What birthstone is turquoise : ABBR
+Who was the first US President to ride in an automobile to his inauguration : HUM
+How old was the youngest president of the United States : ABBR
+When was Ulysses S Grant born : NUM
+What is Muscular Dystrophy : ABBR
+Who lived in the Neuschwanstein castle : HUM
+What is propylene glycol : ABBR
+What is a panic disorder : ABBR
+Who invented the instant Polaroid camera : HUM
+What is a carcinogen : ABBR
+What is a baby lion called : ABBR
+What is the world s population : ABBR
+What is nepotism : ABBR
+What is diecasting : ABBR
+What is myopia : ABBR
+What is the sales tax rate in New York : ABBR
+Developing nations comprise what percentage of the world s population : ABBR
+What is the fourth highest mountain in the world : LOC
+What is Shakespeare s nickname : ABBR
+What is the heaviest naturally occurring element : ABBR
+When is Father s Day : ABBR
+What does the acronym NASA stand for : ABBR
+How long is the Columbia River in miles : NUM
+What city s newspaper is called  The Star : LOC
+What is carbon dioxide : ABBR
+Where is the MasonDixon line : LOC
+When was the Boston tea party : ABBR
+What is metabolism : ABBR
+Which USA president appeared on  LaughIn : ABBR
+What are cigarettes made of : ABBR
+What is the capital of Zimbabwe : ABBR
+What does NASA stand for : ABBR
+What is the state flower of Michigan : ABBR
+What are semiconductors : LOC
+What is nuclear power : ABBR
+What is a tsunami : ABBR
+Who is the congressman from state of Texas on the armed forces committee : HUM
+Who was president in 1913 : HUM
+When was the first kidney transplant : NUM
+What are Canada s two territories : LOC
+What was the name of the plane Lindbergh flew solo across the Atlantic : HUM
+What is genocide : ABBR
+What continent is Argentina on : ABBR
+What monastery was raided by Vikings in the late eighth century : ABBR
+What is an earthquake : ABBR
+Where is the tallest roller coaster located : LOC
+What are enzymes : LOC
+Who discovered oxygen : HUM
+What is bangers and mash : ABBR
+What is the name given to the Tiger at Louisiana State University : ABBR
+Where are the British crown jewels kept : LOC
+Who was the first person to reach the North Pole : HUM
+What is an ulcer : ABBR
+What is vertigo : ABBR
+What is the spirometer test : ABBR
+When is the official first day of summer : NUM
+What does the abbreviation SOS mean : ABBR
+What is the smallest bird in Britain : ABBR
+Who invented Trivial Pursuit : HUM
+What gasses are in the troposphere : ABBR
+Which country has the most water pollution : LOC
+What is the scientific name for elephant : ABBR
+Who is the actress known for her role in the movie  Gypsy : ABBR
+What breed of hunting dog did the Beverly Hillbillies own : ABBR
+What is the rainiest place on Earth : ABBR
+Who was the first African American to win the Nobel Prize in literature : HUM
+When is St Patrick s Day : NUM
+What was FDR s dog s name : ENTY
+What colors need to be mixed to get the color pink : ABBR
+What is the most popular sport in Japan : ABBR
+What is the active ingredient in baking soda : ABBR
+When was Thomas Jefferson born : NUM
+How cold should a refrigerator be : DESC
+When was the telephone invented : NUM
+What is the most common eye color : ABBR
+Where was the first golf course in the United States : LOC
+What is schizophrenia : ABBR
+What is angiotensin : ABBR
+What did Jesse Jackson organize : ABBR
+What is New York s state bird : ABBR
+What is the National Park in Utah : ABBR
+What is Susan B Anthony s birthday : ABBR
+In which state would you find the Catskill Mountains : ABBR
+What do you call a word that is spelled the same backwards and forwards : ABBR
+What are pediatricians : LOC
+What chain store is headquartered in Bentonville  Arkansas : ABBR
+What are solar cells : LOC
+What is compounded interest : ABBR
+What are capers : LOC
+What is an antigen : ABBR
+What currency does Luxembourg use : ABBR
+What is the population of Venezuela : ABBR
+What type of polymer is used for bulletproof vests : ABBR
+What currency does Argentina use : ABBR
+What is a thermometer : ABBR
+What Canadian city has the largest population : LOC
+What color are crickets : ABBR
+Which country gave New York the Statue of Liberty : LOC
+What was the name of the first US satellite sent into space : HUM
+What precious stone is a form of pure carbon : ABBR
+What kind of gas is in a fluorescent bulb : ABBR
+What is rheumatoid arthritis : ABBR
+What river runs through Rowe  Italy : LOC
+What is cerebral palsy : ABBR
+What city is also known as  The Gateway to the West : ABBR
+How far away is the moon : NUM
+What is the source of natural gas : ABBR
+In what spacecraft did US astronaut Alan Shepard make his historic 1961 flight : ABBR
+What is pectin : ABBR
+What is biodiversity : ABBR
+What s the easiest way to remove wallpaper : ABBR
+What year did the Titanic start on its journey : NUM
+How much of an apple is water : NUM
+Who was the 22nd President of the US : HUM
+What is the money they use in Zambia : ABBR
+How many feet in a mile : NUM
+What is the birthstone of October : ABBR
+What is ecoli : ABBR

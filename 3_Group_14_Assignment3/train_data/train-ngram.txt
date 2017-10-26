@@ -1,0 +1,1000 @@
+what
+how
+who
+many
+name
+where
+first
+when
+you
+world
+us
+which
+country
+city
+why
+people
+get
+find
+called
+state
+year
+president
+american
+war
+mean
+two
+largest
+fear
+new
+made
+much
+long
+origin
+word
+used
+tv
+company
+movie
+kind
+film
+famous
+one
+known
+take
+day
+stand
+game
+make
+live
+invented
+best
+book
+time
+john
+color
+play
+man
+wrote
+come
+term
+states
+show
+last
+countries
+south
+named
+america
+home
+team
+star
+old
+number
+difference
+character
+call
+baseball
+use
+river
+english
+king
+died
+born
+work
+three
+song
+said
+played
+novel
+information
+highest
+four
+united
+years
+dog
+common
+college
+capital
+become
+average
+actor
+say
+population
+names
+earth
+body
+black
+actress
+would
+water
+sport
+mountain
+located
+group
+drink
+computer
+california
+woman
+top
+times
+north
+island
+food
+york
+space
+sea
+school
+killed
+go
+die
+animal
+university
+portrayed
+popular
+part
+money
+history
+great
+good
+way
+makes
+language
+different
+big
+title
+red
+person
+national
+meaning
+longest
+internet
+horse
+cities
+car
+write
+west
+major
+like
+leader
+international
+general
+french
+date
+created
+craft
+cost
+contains
+charles
+became
+address
+whose
+russian
+randy
+place
+miles
+line
+life
+causes
+built
+battle
+system
+seven
+second
+queen
+power
+moon
+little
+law
+ii
+games
+found
+feet
+features
+airport
+abbreviation
+type
+someone
+san
+park
+office
+nickname
+men
+love
+london
+letter
+james
+human
+george
+form
+following
+five
+england
+death
+comic
+colors
+children
+british
+bridge
+boasts
+begin
+air
+white
+washington
+television
+soft
+real
+product
+player
+nn
+nixon
+letters
+kennedy
+japanese
+islands
+house
+hole
+hit
+germany
+european
+eat
+disease
+bowl
+blood
+biggest
+baby
+area
+words
+william
+st
+spanish
+rate
+ocean
+mother
+member
+may
+married
+league
+lawyer
+high
+held
+happened
+female
+father
+chemical
+center
+business
+bill
+animals
+singing
+served
+series
+runs
+newspaper
+music
+lives
+know
+ice
+hitler
+definition
+christmas
+building
+age
+web
+tuberculosis
+tree
+travel
+tell
+super
+store
+sports
+singer
+ship
+radio
+prime
+original
+oldest
+mississippi
+minister
+main
+indians
+greek
+girl
+far
+end
+email
+dc
+county
+cnn
+civil
+canada
+birth
+around
+another
+africa
+10
+win
+tax
+story
+soldiers
+size
+see
+saw
+role
+richard
+produce
+prize
+pope
+percentage
+originate
+olympic
+night
+musical
+marvel
+lake
+kentucky
+introduced
+indian
+founded
+former
+football
+flag
+famed
+fame
+ever
+dick
+department
+comedian
+code
+claim
+china
+cartoon
+card
+boy
+board
+bible
+beer
+basketball
+ball
+back
+art
+worth
+women
+wine
+went
+website
+vietnam
+usa
+tom
+texas
+symbol
+strip
+street
+steven
+started
+start
+starred
+species
+soviet
+sometimes
+six
+sioux
+shot
+rock
+record
+organization
+need
+mount
+los
+look
+list
+latin
+japan
+jack
+income
+head
+hair
+golf
+gold
+fought
+favorite
+fast
+family
+every
+europe
+east
+dubbed
+director
+cross
+cold
+chinese
+century
+caused
+cards
+blue
+berlin
+author
+appear
+americans
+1984
+wall
+types
+thing
+tennis
+son
+shea
+run
+rights
+produced
+prince
+presidents
+point
+plays
+plant
+peter
+paper
+online
+often
+months
+monopoly
+million
+mile
+middle
+massachusetts
+march
+magazine
+light
+languages
+jaws
+jackson
+instrument
+henry
+hands
+hand
+green
+greatest
+government
+gould
+god
+give
+gas
+full
+fly
+flight
+fastest
+eyes
+el
+eggs
+desert
+de
+days
+continent
+child
+characters
+captain
+brothers
+boxing
+birds
+bear
+beach
+band
+australia
+asian
+angeles
+african
+writer
+winter
+weight
+week
+wear
+wars
+van
+union
+town
+titled
+thatcher
+ten
+tallest
+tall
+sun
+students
+stop
+('what', 'is')
+('is', 'the')
+('of', 'the')
+('in', 'the')
+('how', 'many')
+('was', 'the')
+('what', 'are')
+('what', 'was')
+('what', 'does')
+('are', 'the')
+('who', 'was')
+('the', 'name')
+('what', 'the')
+('how', 'do')
+('the', 'first')
+('name', 'of')
+('the', 'world')
+('who', 'is')
+('did', 'the')
+('does', 'the')
+('do', 'you')
+('the', 'most')
+('on', 'the')
+('in', 'what')
+('what', 'country')
+('are', 'there')
+('where', 'is')
+('the', 'us')
+('to', 'the')
+('where', 'can')
+('for', 'the')
+('for', 'what')
+('fear', 'of')
+('how', 'much')
+('is', 'fear')
+('what', 'do')
+('can', 'find')
+('the', 'largest')
+('the', 'origin')
+('origin', 'of')
+('when', 'was')
+('how', 'long')
+('when', 'did')
+('what', 'city')
+('kind', 'of')
+('name', 'the')
+('how', 'can')
+('from', 'the')
+('what', 'kind')
+('where', 'did')
+('what', 'did')
+('what', 'year')
+('has', 'the')
+('stand', 'for')
+('how', 'does')
+('there', 'in')
+('what', 'us')
+('to', 'be')
+('mean', 'what')
+('many', 'people')
+('by', 'the')
+('why', 'do')
+('were', 'the')
+('the', 'difference')
+('world', 'what')
+('of', 'what')
+('known', 'as')
+('does', 'it')
+('difference', 'between')
+('the', 'best')
+('who', 'wrote')
+('who', 'invented')
+('the', 'word')
+('the', 'only')
+('with', 'the')
+('as', 'the')
+('what', 'two')
+('how', 'did')
+('and', 'the')
+('what', 'color')
+('it', 'take')
+('how', 'is')
+('are', 'in')
+('wrote', 'the')
+('us', 'what')
+('the', 'term')
+('year', 'did')
+('come', 'from')
+('city', 'is')
+('can', 'get')
+('called', 'what')
+('at', 'the')
+('us', 'state')
+('united', 'states')
+('new', 'york')
+('do', 'the')
+('world', 'war')
+('what', 'state')
+('the', 'united')
+('the', 'highest')
+('invented', 'the')
+('country', 'is')
+('where', 'does')
+('what', 'were')
+('long', 'does')
+('can', 'you')
+('what', 'tv')
+('the', 'top')
+('won', 'the')
+('why', 'are')
+('who', 'played')
+('where', 'are')
+('used', 'to')
+('the', 'average')
+('name', 'what')
+('in', 'which')
+('have', 'what')
+('year', 'was')
+('why', 'is')
+('who', 'portrayed')
+('the', 'movie')
+('the', 'longest')
+('on', 'what')
+('live', 'in')
+('are', 'some')
+('where', 'was')
+('what', 'what')
+('war', 'ii')
+('the', 'internet')
+('the', 'american')
+('president', 'of')
+('most', 'common')
+('meaning', 'of')
+('made', 'the')
+('is', 'known')
+('in', 'how')
+('how', 'old')
+('from', 'what')
+('what', 'famous')
+('what', 'company')
+('what', 'causes')
+('to', 'have')
+('the', 'great')
+('term', 'for')
+('population', 'of')
+('part', 'of')
+('of', 'all')
+('is', 'an')
+('find', 'the')
+('city', 'in')
+('all', 'the')
+('who', 'won')
+('which', 'of')
+('what', 'president')
+('what', 'film')
+('war', 'what')
+('us', 'president')
+('the', 'abbreviation')
+('that', 'is')
+('soft', 'drink')
+('out', 'of')
+('of', 'an')
+('names', 'of')
+('have', 'the')
+('you', 'get')
+('who', 'created')
+('what', 'actor')
+('to', 'do')
+('there', 'on')
+('the', 'song')
+('the', 'moon')
+('the', 'meaning')
+('the', 'capital')
+('take', 'to')
+('one', 'of')
+('many', 'years')
+('make', 'up')
+('during', 'the')
+('does', 'an')
+('can', 'be')
+('baseball', 'team')
+('world', 'who')
+('why', 'did')
+('where', 'do')
+('what', 'animal')
+('way', 'to')
+('used', 'in')
+('type', 'of')
+('the', 'new')
+('the', 'names')
+('the', 'four')
+('the', 'following')
+('the', 'english')
+('the', 'earth')
+('number', 'of')
+('member', 'of')
+('made', 'of')
+('it', 'what')
+('is', 'it')
+('find', 'out')
+('definition', 'of')
+('day', 'what')
+('country', 'has')
+('capital', 'of')
+('be', 'the')
+('america', 'what')
+('world', 'how')
+('who', 'made')
+('when', 'he')
+('what', 'sport')
+('the', 'year')
+('the', 'three')
+('the', 'population')
+('the', 'last')
+('the', 'history')
+('the', 'definition')
+('prime', 'minister')
+('old', 'is')
+('named', 'for')
+('more', 'than')
+('many', 'times')
+('history', 'of')
+('do', 'they')
+('country', 'was')
+('civil', 'war')
+('called', 'the')
+('boasts', 'the')
+('work', 'what')
+('why', 'does')
+('who', 'were')
+('who', 'did')
+('who', 'are')
+('when', 'is')
+('what', 'war')
+('what', 'type')
+('what', 'river')
+('what', 'new')
+('what', 'happened')
+('to', 'get')
+('the', 'two')
+('the', 'oldest')
+('the', 'number')
+('the', 'nickname')
+('the', 'biggest')
+('the', 'bible')
+('take', 'place')
+('states', 'what')
+('randy', 'craft')
+('percentage', 'of')
+('name', 'how')
+('name', 'for')
+('much', 'did')
+('most', 'popular')
+('known', 'for')
+('is', 'in')
+('if', 'you')
+('how', 'far')
+('how', 'big')
+('for', 'who')
+('for', 'in')
+('find', 'information')
+('famous', 'for')
+('earth', 'what')
+('do', 'find')
+('big', 'is')
+('between', 'the')
+('about', 'the')
+('you', 'say')
+('who', 'said')
+('what', 'percentage')
+('what', 'makes')
+('what', 'famed')
+('what', 'baseball')
+('vietnam', 'war')
+('use', 'to')
+('types', 'of')
+('to', 'become')
+('the', 'vietnam')
+('the', 'title')
+('the', 'president')
+('the', 'national')
+('the', 'film')
+('the', 'famous')
+('the', 'city')
+('state', 'is')
+('space', 'what')
+('richard', 'nixon')
+('played', 'the')
+('of', 'us')
+('of', 'its')
+('nickname', 'of')
+('name', 'who')
+('los', 'angeles')
+('located', 'what')
+('john', 'kennedy')
+('information', 'on')
+('in', 'his')
+('in', 'an')
+('go', 'to')
+('found', 'in')
+('what', 'is', 'the')
+('what', 'are', 'the')
+('what', 'was', 'the')
+('the', 'name', 'of')
+('name', 'of', 'the')
+('who', 'was', 'the')
+('was', 'the', 'first')
+('how', 'do', 'you')
+('who', 'is', 'the')
+('in', 'the', 'world')
+('what', 'is', 'fear')
+('is', 'fear', 'of')
+('is', 'the', 'name')
+('the', 'origin', 'of')
+('is', 'the', 'origin')
+('what', 'does', 'the')
+('what', 'kind', 'of')
+('was', 'the', 'name')
+('where', 'can', 'find')
+('origin', 'of', 'the')
+('in', 'the', 'us')
+('how', 'many', 'people')
+('are', 'there', 'in')
+('where', 'is', 'the')
+('when', 'was', 'the')
+('the', 'difference', 'between')
+('the', 'world', 'what')
+('is', 'the', 'largest')
+('is', 'the', 'difference')
+('what', 'year', 'did')
+('the', 'us', 'what')
+('does', 'it', 'take')
+('who', 'wrote', 'the')
+('where', 'did', 'the')
+('who', 'invented', 'the')
+('what', 'us', 'state')
+('in', 'what', 'year')
+('how', 'long', 'does')
+('the', 'united', 'states')
+('stand', 'for', 'what')
+('is', 'the', 'most')
+('what', 'city', 'is')
+('known', 'as', 'the')
+('of', 'the', 'word')
+('for', 'what', 'is')
+('world', 'war', 'ii')
+('when', 'did', 'the')
+('what', 'are', 'some')
+('is', 'the', 'best')
+('what', 'year', 'was')
+('what', 'the', 'most')
+('what', 'country', 'is')
+('there', 'in', 'the')
+('is', 'the', 'world')
+('in', 'what', 'is')
+('what', 'were', 'the')
+('the', 'most', 'common')
+('what', 'the', 'name')
+('what', 'do', 'you')
+('the', 'meaning', 'of')
+('on', 'the', 'internet')
+('of', 'the', 'world')
+('long', 'does', 'it')
+('is', 'the', 'average')
+('which', 'of', 'the')
+('what', 'is', 'an')
+('how', 'many', 'years')
+('has', 'the', 'most')
+('does', 'the', 'name')
+('come', 'from', 'what')
+('are', 'there', 'on')
+('year', 'was', 'the')
+('where', 'can', 'get')
+('where', 'are', 'the')
+('what', 'do', 'the')
+('what', 'did', 'the')
+('to', 'be', 'the')
+('the', 'world', 'how')
+('the', 'history', 'of')
+('the', 'definition', 'of')
+('mean', 'what', 'is')
+('is', 'the', 'definition')
+('is', 'known', 'as')
+('in', 'the', 'movie')
+('how', 'many', 'times')
+('how', 'can', 'find')
+('do', 'you', 'get')
+('are', 'the', 'top')
+('what', 'country', 'was')
+('what', 'country', 'has')
+('the', 'population', 'of')
+('the', 'capital', 'of')
+('one', 'of', 'the')
+('of', 'the', 'us')
+('of', 'the', 'following')
+('it', 'take', 'to')
+('in', 'the', 'united')
+('how', 'old', 'is')
+('how', 'much', 'did')
+('how', 'big', 'is')
+('are', 'in', 'the')
+('world', 'what', 'is')
+('who', 'won', 'the')
+('who', 'played', 'the')
+('who', 'made', 'the')
+('where', 'does', 'the')
+('what', 'type', 'of')
+('what', 'color', 'is')
+('the', 'world', 'who')
+('the', 'vietnam', 'war')
+('the', 'term', 'for')
+('the', 'names', 'of')
+('is', 'the', 'population')
+('is', 'the', 'only')
+('is', 'the', 'history')
+('in', 'what', 'city')
+('how', 'do', 'find')
+('how', 'did', 'the')
+('how', 'can', 'you')
+('how', 'can', 'get')
+('for', 'what', 'does')
+('do', 'you', 'say')
+('can', 'find', 'the')
+('who', 'were', 'the')
+('what', 'two', 'countries')
+('what', 'percentage', 'of')
+('what', 'country', 'did')
+('was', 'known', 'as')
+('united', 'states', 'what')
+('the', 'university', 'of')
+('the', 'battle', 'of')
+('randy', 'steven', 'craft')
+('of', 'what', 'is')
+('is', 'the', 'meaning')
+('is', 'the', 'highest')
+('is', 'the', 'abbreviation')
+('in', 'the', 'film')
+('how', 'much', 'money')
+('how', 'many', 'miles')
+('country', 'is', 'the')
+('country', 'has', 'the')
+('are', 'there', 'what')
+('who', 'created', 'the')
+('what', 'soft', 'drink')
+('what', 'does', 'an')
+('vietnam', 'war', 'what')
+('the', 'world', 'largest')
+('the', 'president', 'of')
+('the', 'nickname', 'of')
+('the', 'most', 'popular')
+('the', 'largest', 'city')
+('the', 'internet', 'what')
+('the', 'first', 'to')
+('of', 'the', 'united')
+('of', 'the', 'name')
+('member', 'of', 'the')
+('made', 'of', 'what')
+('is', 'the', 'oldest')
+('is', 'the', 'longest')
+('is', 'the', 'chemical')
+('is', 'the', 'capital')
+('how', 'much', 'does')
+('do', 'you', 'call')
+('city', 'is', 'the')
+('city', 'in', 'the')
+('can', 'find', 'out')
+('can', 'find', 'information')
+('are', 'the', 'names')
+('year', 'did', 'the')
+('why', 'is', 'the')
+('why', 'did', 'the')
+('why', 'are', 'there')
+('who', 'are', 'the')
+('what', 'part', 'of')
+('war', 'what', 'is')
+('us', 'what', 'is')
+('to', 'fame', 'of')
+('the', 'setting', 'for')
+('the', 'new', 'york')
+('the', 'kentucky', 'horse')
+('the', 'first', 'woman')
+('the', 'english', 'language')
+('the', 'city', 'of')
+('the', 'abbreviation', 'for')
+('south', 'america', 'what')
+('people', 'in', 'the')
+('on', 'the', 'moon')
+('of', 'the', 'week')
+('of', 'the', 'famous')
+('of', 'the', 'american')
+('of', 'all', 'the')
+('new', 'york', 'city')
+('name', 'who', 'was')
+('meaning', 'of', 'the')
+('los', 'angeles', 'what')
+('largest', 'city', 'in')
+('kentucky', 'horse', 'park')
+('is', 'the', 'fastest')
+('is', 'the', 'current')
+('in', 'the', 'english')

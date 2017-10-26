@@ -1,0 +1,1001 @@
+A,B
+what : 0.015882
+show : 0.000581
+who : 0.017334
+germany : 0.000116
+name : 0.004210
+where : 0.000087
+first : 0.002410
+when : 0.000465
+youth : 0.000058
+world : 0.001103
+us : 0.001365
+which : 0.001597
+country : 0.000116
+city : 0.000203
+why : 0.000029
+people : 0.000436
+get : 0.000174
+find : 0.000029
+called : 0.000552
+states : 0.000174
+years : 0.000232
+president : 0.001800
+american : 0.000668
+war : 0.000465
+meant : 0.000087
+two : 0.000784
+largest : 0.000348
+fear : 0.000116
+new : 0.000668
+made : 0.000726
+much : 0.000116
+longtime : 0.000058
+original : 0.000232
+word : 0.000087
+used : 0.000203
+tv : 0.000813
+company : 0.001307
+movie : 0.000726
+kind : 0.000174
+film : 0.000290
+famous : 0.000958
+one : 0.000348
+known : 0.000465
+take : 0.000058
+days : 0.000174
+outstanding : 0.000058
+game : 0.000261
+makes : 0.000203
+lives : 0.000203
+invented : 0.000987
+best : 0.000290
+book : 0.000319
+time : 0.000319
+john : 0.000319
+multicolored : 0.000058
+played : 0.000610
+man : 0.000523
+wrote : 0.001132
+comedian : 0.000348
+terms : 0.000058
+states : 0.000174
+show : 0.000581
+last : 0.000377
+countries : 0.000029
+south : 0.000261
+named : 0.000465
+american : 0.000668
+home : 0.000232
+team : 0.000755
+star : 0.000668
+told : 0.000145
+numbers : 0.000058
+difference : 0.000029
+character : 0.000726
+called : 0.000552
+baseball : 0.000726
+house : 0.000232
+river : 0.000087
+english : 0.000232
+king : 0.000552
+died : 0.000319
+born : 0.000203
+work : 0.000145
+three : 0.000203
+song : 0.000319
+said : 0.000668
+played : 0.000610
+novel : 0.000145
+information : 0.000058
+highest : 0.000058
+four : 0.000203
+united : 0.000232
+years : 0.000232
+dog : 0.000087
+common : 0.000232
+college : 0.000406
+capital : 0.000058
+become : 0.000058
+average : 0.000058
+actor : 0.000697
+says : 0.000058
+population : 0.000058
+names : 0.000377
+earth : 0.000058
+body : 0.000087
+black : 0.000203
+actress : 0.000639
+would : 0.000174
+watergate : 0.000174
+sports : 0.000145
+mountain : 0.000058
+located : 0.000029
+group : 0.000377
+drink : 0.000087
+computer : 0.000174
+california : 0.000174
+woman : 0.000494
+top : 0.000232
+times : 0.000232
+north : 0.000116
+islands : 0.000087
+food : 0.000203
+york : 0.000406
+space : 0.000232
+sea : 0.000145
+school : 0.000261
+killed : 0.000406
+good : 0.000174
+died : 0.000319
+animals : 0.000058
+university : 0.000290
+portrayed : 0.000668
+popular : 0.000145
+part : 0.000261
+money : 0.000116
+history : 0.000145
+great : 0.000232
+good : 0.000174
+way : 0.000116
+makes : 0.000203
+language : 0.000058
+different : 0.000029
+biggest : 0.000116
+title : 0.000319
+starred : 0.000261
+person : 0.000348
+international : 0.000203
+meaning : 0.000029
+longest : 0.000029
+internet : 0.000116
+horse : 0.000116
+cities : 0.000058
+cartoon : 0.000232
+writer : 0.000232
+west : 0.000203
+major : 0.000348
+likes : 0.000087
+leader : 0.000494
+international : 0.000203
+general : 0.000348
+french : 0.000203
+date : 0.000029
+created : 0.000465
+craft : 0.000377
+costume : 0.000087
+contains : 0.000029
+charles : 0.000232
+became : 0.000436
+address : 0.000029
+whose : 0.000523
+russian : 0.000232
+randy : 0.000377
+replaced : 0.000058
+miles : 0.000029
+line : 0.000174
+life : 0.000174
+causes : 0.000029
+built : 0.000174
+battle : 0.000261
+systems : 0.000058
+seven : 0.000203
+second : 0.000174
+queen : 0.000261
+power : 0.000145
+moon : 0.000116
+little : 0.000203
+lawyer : 0.000406
+ii : 0.000174
+games : 0.000203
+founded : 0.000232
+feet : 0.000058
+features : 0.000029
+airport : 0.000029
+abbreviation : 0.000029
+type : 0.000029
+someone : 0.000029
+san : 0.000174
+park : 0.000116
+office : 0.000116
+nickname : 0.000348
+department : 0.000261
+love : 0.000174
+london : 0.000145
+letter : 0.000058
+james : 0.000145
+human : 0.000058
+george : 0.000116
+former : 0.000174
+following : 0.000377
+five : 0.000174
+england : 0.000174
+death : 0.000145
+comic : 0.000261
+colors : 0.000029
+children : 0.000116
+british : 0.000261
+bridges : 0.000058
+boasts : 0.000058
+begins : 0.000058
+chairman : 0.000116
+white : 0.000232
+washington : 0.000203
+television : 0.000203
+software : 0.000058
+real : 0.000232
+product : 0.000087
+player : 0.000261
+nn : 0.000290
+nixon : 0.000203
+letters : 0.000029
+kennedy : 0.000116
+japanese : 0.000203
+islands : 0.000087
+house : 0.000232
+hole : 0.000029
+white : 0.000232
+germany : 0.000116
+european : 0.000029
+created : 0.000465
+disease : 0.000029
+bowl : 0.000174
+blood : 0.000058
+biggest : 0.000116
+baby : 0.000145
+areas : 0.000058
+wordsworth : 0.000058
+william : 0.000232
+first : 0.002410
+spanish : 0.000174
+narrates : 0.000087
+ocean : 0.000058
+mother : 0.000290
+member : 0.000290
+mayor : 0.000203
+married : 0.000261
+league : 0.000348
+lawyer : 0.000406
+high : 0.000116
+held : 0.000174
+happened : 0.000029
+female : 0.000232
+father : 0.000436
+chemical : 0.000029
+center : 0.000145
+business : 0.000290
+billy : 0.000116
+animals : 0.000058
+singing : 0.000232
+served : 0.000174
+series : 0.000116
+runs : 0.000145
+newspaper : 0.000087
+musical : 0.000116
+lives : 0.000203
+known : 0.000465
+police : 0.000232
+hitler : 0.000145
+definition : 0.000029
+christmas : 0.000145
+building : 0.000058
+cage : 0.000145
+web : 0.000058
+tuberculosis : 0.000029
+tree : 0.000116
+traveled : 0.000087
+tell : 0.000087
+super : 0.000232
+store : 0.000232
+sports : 0.000145
+singer : 0.000261
+championship : 0.000116
+radio : 0.000261
+prime : 0.000290
+original : 0.000232
+oldest : 0.000145
+mississippi : 0.000029
+minister : 0.000319
+main : 0.000029
+indians : 0.000058
+greek : 0.000174
+girl : 0.000261
+seafarers : 0.000058
+friend : 0.000174
+email : 0.000029
+dc : 0.000203
+county : 0.000290
+cnn : 0.000116
+civil : 0.000116
+canada : 0.000058
+birth : 0.000087
+around : 0.000116
+another : 0.000029
+africa : 0.000145
+title : 0.000319
+following : 0.000377
+tax : 0.000029
+story : 0.000203
+soldiers : 0.000029
+synthesizer : 0.000058
+seen : 0.000116
+sawyer : 0.000058
+role : 0.000290
+richard : 0.000145
+producer : 0.000174
+prize : 0.000203
+pope : 0.000145
+percentage : 0.000058
+originated : 0.000087
+olympic : 0.000116
+night : 0.000174
+musical : 0.000116
+marvel : 0.000174
+lake : 0.000029
+kentucky : 0.000029
+introduced : 0.000058
+indian : 0.000116
+founded : 0.000232
+former : 0.000174
+football : 0.000261
+flag : 0.000029
+famed : 0.000058
+fame : 0.000145
+never : 0.000174
+dick : 0.000232
+department : 0.000261
+comedian : 0.000348
+code : 0.000058
+claimed : 0.000232
+china : 0.000058
+cartoon : 0.000232
+cards : 0.000058
+boy : 0.000174
+surfboard : 0.000058
+bible : 0.000058
+beer : 0.000087
+basketball : 0.000232
+baseball : 0.000726
+back : 0.000087
+part : 0.000261
+worth : 0.000058
+women : 0.000116
+wine : 0.000116
+went : 0.000203
+website : 0.000029
+vietnamese : 0.000087
+usa : 0.000116
+tom : 0.000203
+texas : 0.000116
+symbol : 0.000029
+strip : 0.000145
+streetcar : 0.000058
+steven : 0.000203
+started : 0.000145
+started : 0.000145
+starred : 0.000261
+species : 0.000029
+soviet : 0.000232
+sometimes : 0.000087
+six : 0.000116
+sioux : 0.000029
+shot : 0.000232
+rock : 0.000145
+record : 0.000261
+organization : 0.000319
+need : 0.000029
+mounted : 0.000058
+lost : 0.000087
+look : 0.000116
+novelist : 0.000116
+contemplating : 0.000058
+japanese : 0.000203
+jackson : 0.000116
+income : 0.000029
+head : 0.000203
+chairman : 0.000116
+golfer : 0.000116
+gold : 0.000145
+fought : 0.000087
+favorite : 0.000116
+fastest : 0.000087
+family : 0.000087
+every : 0.000058
+europe : 0.000058
+northeast : 0.000058
+dubbed : 0.000116
+director : 0.000290
+crossyourheart : 0.000058
+cold : 0.000029
+chinese : 0.000087
+century : 0.000145
+caused : 0.000029
+cards : 0.000058
+blue : 0.000116
+berlin : 0.000029
+author : 0.000290
+appear : 0.000145
+americans : 0.000058
+1984 : 0.000232
+wallbanger : 0.000058
+types : 0.000029
+thing : 0.000087
+tennis : 0.000058
+person : 0.000348
+shea : 0.000029
+runs : 0.000145
+rights : 0.000058
+produced : 0.000145
+prince : 0.000145
+presidents : 0.000174
+appointed : 0.000087
+plays : 0.000116
+transplant : 0.000087
+peter : 0.000203
+paper : 0.000087
+online : 0.000029
+often : 0.000029
+months : 0.000087
+monopoly : 0.000058
+million : 0.000116
+mile : 0.000058
+middle : 0.000145
+massachusetts : 0.000087
+marching : 0.000058
+magazines : 0.000058
+slightly : 0.000058
+languages : 0.000029
+jaws : 0.000087
+jackson : 0.000116
+instrument : 0.000058
+henry : 0.000203
+hands : 0.000058
+merchandise : 0.000058
+green : 0.000087
+greatest : 0.000116
+government : 0.000145
+gould : 0.000029
+god : 0.000174
+given : 0.000116
+gasoline : 0.000058
+full : 0.000116
+fly : 0.000145
+flights : 0.000058
+fastest : 0.000087
+eyes : 0.000087
+television : 0.000203
+eggs : 0.000029
+desert : 0.000087
+president : 0.001800
+days : 0.000174
+continent : 0.000029
+child : 0.000145
+characters : 0.000145
+captain : 0.000174
+brothers : 0.000116
+boxing : 0.000087
+birds : 0.000029
+bear : 0.000116
+beach : 0.000058
+band : 0.000203
+australia : 0.000058
+asian : 0.000087
+angeles : 0.000058
+african : 0.000116
+writer : 0.000232
+winters : 0.000058
+heavyweight : 0.000087
+week : 0.000029
+wear : 0.000116
+wars : 0.000116
+van : 0.000087
+union : 0.000116
+yorktown : 0.000058
+titled : 0.000232
+thatcher : 0.000058
+ten : 0.000145
+tallest : 0.000058
+tallest : 0.000058
+sunnyside : 0.000058
+students : 0.000029
+stopped : 0.000058
+('what', 'is') : 0.001829
+('is', 'the') : 0.003107
+('of', 'the') : 0.004559
+('in', 'the') : 0.002874
+('how', 'many') : 0.000029
+('was', 'the') : 0.003629
+('what', 'are') : 0.000552
+('what', 'was') : 0.001452
+('what', 'does') : 0.000145
+('are', 'the') : 0.000668
+('who', 'was') : 0.004210
+('the', 'name') : 0.001336
+('what', 'the') : 0.000377
+('how', 'do') : 0.000029
+('the', 'first') : 0.001800
+('name', 'of') : 0.001626
+('the', 'world') : 0.000755
+('who', 'is') : 0.003136
+('did', 'the') : 0.000145
+('does', 'the') : 0.000145
+('do', 'you') : 0.000058
+('the', 'most') : 0.000726
+('on', 'the') : 0.000581
+('in', 'what') : 0.000116
+('what', 'country') : 0.000029
+('are', 'there') : 0.000058
+('where', 'is') : 0.000029
+('the', 'us') : 0.000406
+('to', 'the') : 0.000436
+('where', 'can') : 0.000029
+('for', 'the') : 0.000610
+('for', 'what') : 0.000319
+('fear', 'of') : 0.000058
+('how', 'much') : 0.000058
+('is', 'fear') : 0.000058
+('what', 'do') : 0.000029
+('can', 'find') : 0.000029
+('the', 'largest') : 0.000203
+('the', 'origin') : 0.000029
+('origin', 'of') : 0.000029
+('when', 'was') : 0.000029
+('how', 'long') : 0.000029
+('when', 'did') : 0.000029
+('what', 'city') : 0.000029
+('kind', 'of') : 0.000174
+('name', 'the') : 0.000900
+('how', 'can') : 0.000029
+('from', 'the') : 0.000348
+('what', 'kind') : 0.000174
+('where', 'did') : 0.000029
+('what', 'did') : 0.000087
+('what', 'year') : 0.000029
+('has', 'the') : 0.000232
+('stand', 'for') : 0.000029
+('how', 'does') : 0.000029
+('there', 'in') : 0.000058
+('what', 'us') : 0.000406
+('to', 'be') : 0.000377
+('mean', 'what') : 0.000029
+('many', 'people') : 0.000029
+('by', 'the') : 0.000232
+('why', 'do') : 0.000029
+('were', 'the') : 0.000319
+('the', 'difference') : 0.000029
+('world', 'what') : 0.000203
+('of', 'what') : 0.000145
+('known', 'as') : 0.000377
+('does', 'it') : 0.000029
+('difference', 'between') : 0.000029
+('the', 'best') : 0.000232
+('who', 'wrote') : 0.000871
+('who', 'invented') : 0.000871
+('the', 'word') : 0.000029
+('the', 'only') : 0.000406
+('with', 'the') : 0.000203
+('as', 'the') : 0.000377
+('what', 'two') : 0.000203
+('how', 'did') : 0.000029
+('and', 'the') : 0.000290
+('what', 'color') : 0.000029
+('it', 'take') : 0.000029
+('how', 'is') : 0.000029
+('are', 'in') : 0.000058
+('wrote', 'the') : 0.000755
+('us', 'what') : 0.000087
+('the', 'term') : 0.000058
+('year', 'did') : 0.000029
+('come', 'from') : 0.000029
+('city', 'is') : 0.000029
+('can', 'get') : 0.000029
+('called', 'what') : 0.000145
+('at', 'the') : 0.000377
+('us', 'state') : 0.000029
+('united', 'states') : 0.000174
+('new', 'york') : 0.000406
+('do', 'the') : 0.000058
+('world', 'war') : 0.000203
+('what', 'state') : 0.000029
+('the', 'united') : 0.000174
+('the', 'highest') : 0.000058
+('invented', 'the') : 0.000668
+('country', 'is') : 0.000029
+('where', 'does') : 0.000029
+('what', 'were') : 0.000087
+('long', 'does') : 0.000029
+('can', 'you') : 0.000058
+('what', 'tv') : 0.000261
+('the', 'top') : 0.000203
+('won', 'the') : 0.000523
+('why', 'are') : 0.000029
+('who', 'played') : 0.000552
+('where', 'are') : 0.000029
+('used', 'to') : 0.000116
+('the', 'average') : 0.000029
+('name', 'what') : 0.000319
+('in', 'which') : 0.000029
+('have', 'what') : 0.000029
+('year', 'was') : 0.000029
+('why', 'is') : 0.000029
+('who', 'portrayed') : 0.000523
+('the', 'movie') : 0.000377
+('the', 'longest') : 0.000029
+('on', 'what') : 0.000058
+('live', 'in') : 0.000058
+('are', 'some') : 0.000029
+('where', 'was') : 0.000029
+('what', 'what') : 0.000058
+('war', 'ii') : 0.000174
+('the', 'internet') : 0.000087
+('the', 'american') : 0.000174
+('president', 'of') : 0.000465
+('most', 'common') : 0.000232
+('meaning', 'of') : 0.000029
+('made', 'the') : 0.000406
+('is', 'known') : 0.000145
+('in', 'how') : 0.000029
+('how', 'old') : 0.000029
+('from', 'what') : 0.000029
+('what', 'famous') : 0.000436
+('what', 'company') : 0.000465
+('what', 'causes') : 0.000029
+('to', 'have') : 0.000203
+('the', 'great') : 0.000145
+('term', 'for') : 0.000029
+('population', 'of') : 0.000029
+('part', 'of') : 0.000174
+('of', 'all') : 0.000087
+('is', 'an') : 0.000058
+('find', 'the') : 0.000029
+('city', 'in') : 0.000029
+('all', 'the') : 0.000087
+('who', 'won') : 0.000436
+('which', 'of') : 0.000377
+('what', 'president') : 0.000436
+('what', 'film') : 0.000029
+('war', 'what') : 0.000058
+('us', 'president') : 0.000406
+('the', 'abbreviation') : 0.000029
+('that', 'is') : 0.000145
+('soft', 'drink') : 0.000029
+('out', 'of') : 0.000116
+('of', 'an') : 0.000087
+('names', 'of') : 0.000232
+('have', 'the') : 0.000087
+('you', 'get') : 0.000029
+('who', 'created') : 0.000406
+('what', 'actor') : 0.000406
+('to', 'do') : 0.000116
+('there', 'on') : 0.000029
+('the', 'song') : 0.000145
+('the', 'moon') : 0.000116
+('the', 'meaning') : 0.000029
+('the', 'capital') : 0.000058
+('take', 'to') : 0.000058
+('one', 'of') : 0.000203
+('many', 'years') : 0.000058
+('make', 'up') : 0.000087
+('during', 'the') : 0.000203
+('does', 'an') : 0.000029
+('can', 'be') : 0.000058
+('baseball', 'team') : 0.000377
+('world', 'who') : 0.000145
+('why', 'did') : 0.000029
+('where', 'do') : 0.000029
+('what', 'animal') : 0.000029
+('way', 'to') : 0.000058
+('used', 'in') : 0.000029
+('type', 'of') : 0.000029
+('the', 'new') : 0.000232
+('the', 'names') : 0.000116
+('the', 'four') : 0.000116
+('the', 'following') : 0.000348
+('the', 'english') : 0.000058
+('the', 'earth') : 0.000029
+('number', 'of') : 0.000029
+('member', 'of') : 0.000261
+('made', 'of') : 0.000029
+('it', 'what') : 0.000058
+('is', 'it') : 0.000029
+('find', 'out') : 0.000029
+('definition', 'of') : 0.000029
+('day', 'what') : 0.000058
+('country', 'has') : 0.000029
+('capital', 'of') : 0.000029
+('be', 'the') : 0.000203
+('america', 'what') : 0.000058
+('world', 'how') : 0.000029
+('who', 'made') : 0.000348
+('when', 'he') : 0.000116
+('what', 'sport') : 0.000029
+('the', 'year') : 0.000116
+('the', 'three') : 0.000087
+('the', 'population') : 0.000029
+('the', 'last') : 0.000145
+('the', 'history') : 0.000029
+('the', 'definition') : 0.000029
+('prime', 'minister') : 0.000290
+('old', 'is') : 0.000029
+('named', 'for') : 0.000087
+('more', 'than') : 0.000145
+('many', 'times') : 0.000029
+('history', 'of') : 0.000029
+('do', 'they') : 0.000029
+('country', 'was') : 0.000029
+('civil', 'war') : 0.000116
+('called', 'the') : 0.000116
+('boasts', 'the') : 0.000058
+('work', 'what') : 0.000029
+('why', 'does') : 0.000029
+('who', 'were') : 0.000290
+('who', 'did') : 0.000319
+('who', 'are') : 0.000290
+('when', 'is') : 0.000029
+('what', 'war') : 0.000029
+('what', 'type') : 0.000029
+('what', 'river') : 0.000029
+('what', 'new') : 0.000116
+('what', 'happened') : 0.000029
+('to', 'get') : 0.000116
+('the', 'two') : 0.000145
+('the', 'oldest') : 0.000087
+('the', 'number') : 0.000029
+('the', 'nickname') : 0.000232
+('the', 'biggest') : 0.000029
+('the', 'bible') : 0.000058
+('take', 'place') : 0.000029
+('states', 'what') : 0.000029
+('randy', 'craft') : 0.000203
+('percentage', 'of') : 0.000058
+('name', 'how') : 0.000029
+('name', 'for') : 0.000058
+('much', 'did') : 0.000029
+('most', 'popular') : 0.000116
+('known', 'for') : 0.000058
+('is', 'in') : 0.000058
+('if', 'you') : 0.000116
+('how', 'far') : 0.000029
+('how', 'big') : 0.000029
+('for', 'who') : 0.000174
+('for', 'in') : 0.000029
+('find', 'information') : 0.000029
+('famous', 'for') : 0.000087
+('earth', 'what') : 0.000058
+('do', 'find') : 0.000029
+('big', 'is') : 0.000029
+('between', 'the') : 0.000029
+('about', 'the') : 0.000029
+('you', 'say') : 0.000029
+('who', 'said') : 0.000290
+('what', 'percentage') : 0.000029
+('what', 'makes') : 0.000029
+('what', 'famed') : 0.000058
+('what', 'baseball') : 0.000232
+('vietnam', 'war') : 0.000029
+('use', 'to') : 0.000029
+('types', 'of') : 0.000029
+('to', 'become') : 0.000029
+('the', 'vietnam') : 0.000029
+('the', 'title') : 0.000174
+('the', 'president') : 0.000261
+('the', 'national') : 0.000087
+('the', 'film') : 0.000174
+('the', 'famous') : 0.000232
+('the', 'city') : 0.000029
+('state', 'is') : 0.000029
+('space', 'what') : 0.000087
+('richard', 'nixon') : 0.000145
+('played', 'the') : 0.000290
+('of', 'us') : 0.000087
+('of', 'its') : 0.000145
+('nickname', 'of') : 0.000203
+('name', 'who') : 0.000494
+('los', 'angeles') : 0.000058
+('located', 'what') : 0.000029
+('john', 'kennedy') : 0.000087
+('information', 'on') : 0.000029
+('in', 'his') : 0.000058
+('in', 'an') : 0.000058
+('go', 'to') : 0.000029
+('found', 'in') : 0.000058
+('what', 'is', 'the') : 0.001161
+('what', 'are', 'the') : 0.000494
+('what', 'was', 'the') : 0.000958
+('the', 'name', 'of') : 0.001249
+('name', 'of', 'the') : 0.001045
+('who', 'was', 'the') : 0.002468
+('was', 'the', 'first') : 0.001045
+('how', 'do', 'you') : 0.000029
+('who', 'is', 'the') : 0.001713
+('in', 'the', 'world') : 0.000319
+('what', 'is', 'fear') : 0.000029
+('is', 'fear', 'of') : 0.000029
+('is', 'the', 'name') : 0.000581
+('the', 'origin', 'of') : 0.000029
+('is', 'the', 'origin') : 0.000029
+('what', 'does', 'the') : 0.000029
+('what', 'kind', 'of') : 0.000174
+('was', 'the', 'name') : 0.000523
+('where', 'can', 'find') : 0.000029
+('origin', 'of', 'the') : 0.000029
+('in', 'the', 'us') : 0.000203
+('how', 'many', 'people') : 0.000029
+('are', 'there', 'in') : 0.000058
+('where', 'is', 'the') : 0.000029
+('when', 'was', 'the') : 0.000029
+('the', 'difference', 'between') : 0.000029
+('the', 'world', 'what') : 0.000203
+('is', 'the', 'largest') : 0.000058
+('is', 'the', 'difference') : 0.000029
+('what', 'year', 'did') : 0.000029
+('the', 'us', 'what') : 0.000087
+('does', 'it', 'take') : 0.000029
+('who', 'wrote', 'the') : 0.000639
+('where', 'did', 'the') : 0.000029
+('who', 'invented', 'the') : 0.000610
+('what', 'us', 'state') : 0.000029
+('in', 'what', 'year') : 0.000029
+('how', 'long', 'does') : 0.000029
+('the', 'united', 'states') : 0.000145
+('stand', 'for', 'what') : 0.000029
+('is', 'the', 'most') : 0.000145
+('what', 'city', 'is') : 0.000029
+('known', 'as', 'the') : 0.000290
+('of', 'the', 'word') : 0.000029
+('for', 'what', 'is') : 0.000058
+('world', 'war', 'ii') : 0.000174
+('when', 'did', 'the') : 0.000029
+('what', 'are', 'some') : 0.000029
+('is', 'the', 'best') : 0.000174
+('what', 'year', 'was') : 0.000029
+('what', 'the', 'most') : 0.000116
+('what', 'country', 'is') : 0.000029
+('there', 'in', 'the') : 0.000029
+('is', 'the', 'world') : 0.000087
+('in', 'what', 'is') : 0.000058
+('what', 'were', 'the') : 0.000058
+('the', 'most', 'common') : 0.000203
+('what', 'the', 'name') : 0.000174
+('what', 'do', 'you') : 0.000029
+('the', 'meaning', 'of') : 0.000029
+('on', 'the', 'internet') : 0.000029
+('of', 'the', 'world') : 0.000087
+('long', 'does', 'it') : 0.000029
+('is', 'the', 'average') : 0.000029
+('which', 'of', 'the') : 0.000348
+('what', 'is', 'an') : 0.000058
+('how', 'many', 'years') : 0.000029
+('has', 'the', 'most') : 0.000029
+('does', 'the', 'name') : 0.000029
+('come', 'from', 'what') : 0.000029
+('are', 'there', 'on') : 0.000029
+('year', 'was', 'the') : 0.000029
+('where', 'can', 'get') : 0.000029
+('where', 'are', 'the') : 0.000029
+('what', 'do', 'the') : 0.000029
+('what', 'did', 'the') : 0.000058
+('to', 'be', 'the') : 0.000203
+('the', 'world', 'how') : 0.000029
+('the', 'history', 'of') : 0.000029
+('the', 'definition', 'of') : 0.000029
+('mean', 'what', 'is') : 0.000029
+('is', 'the', 'definition') : 0.000029
+('is', 'known', 'as') : 0.000116
+('in', 'the', 'movie') : 0.000319
+('how', 'many', 'times') : 0.000029
+('how', 'can', 'find') : 0.000029
+('do', 'you', 'get') : 0.000029
+('are', 'the', 'top') : 0.000203
+('what', 'country', 'was') : 0.000029
+('what', 'country', 'has') : 0.000029
+('the', 'population', 'of') : 0.000029
+('the', 'capital', 'of') : 0.000029
+('one', 'of', 'the') : 0.000116
+('of', 'the', 'us') : 0.000145
+('of', 'the', 'following') : 0.000319
+('it', 'take', 'to') : 0.000029
+('in', 'the', 'united') : 0.000058
+('how', 'old', 'is') : 0.000029
+('how', 'much', 'did') : 0.000029
+('how', 'big', 'is') : 0.000029
+('are', 'in', 'the') : 0.000058
+('world', 'what', 'is') : 0.000029
+('who', 'won', 'the') : 0.000290
+('who', 'played', 'the') : 0.000290
+('who', 'made', 'the') : 0.000290
+('where', 'does', 'the') : 0.000029
+('what', 'type', 'of') : 0.000029
+('what', 'color', 'is') : 0.000029
+('the', 'world', 'who') : 0.000116
+('the', 'vietnam', 'war') : 0.000029
+('the', 'term', 'for') : 0.000029
+('the', 'names', 'of') : 0.000116
+('is', 'the', 'population') : 0.000029
+('is', 'the', 'only') : 0.000087
+('is', 'the', 'history') : 0.000029
+('in', 'what', 'city') : 0.000029
+('how', 'do', 'find') : 0.000029
+('how', 'did', 'the') : 0.000029
+('how', 'can', 'you') : 0.000029
+('how', 'can', 'get') : 0.000029
+('for', 'what', 'does') : 0.000029
+('do', 'you', 'say') : 0.000029
+('can', 'find', 'the') : 0.000029
+('who', 'were', 'the') : 0.000261
+('what', 'two', 'countries') : 0.000029
+('what', 'percentage', 'of') : 0.000029
+('what', 'country', 'did') : 0.000029
+('was', 'known', 'as') : 0.000232
+('united', 'states', 'what') : 0.000029
+('the', 'university', 'of') : 0.000058
+('the', 'battle', 'of') : 0.000174
+('randy', 'steven', 'craft') : 0.000203
+('of', 'what', 'is') : 0.000058
+('is', 'the', 'meaning') : 0.000029
+('is', 'the', 'highest') : 0.000029
+('is', 'the', 'abbreviation') : 0.000029
+('in', 'the', 'film') : 0.000174
+('how', 'much', 'money') : 0.000029
+('how', 'many', 'miles') : 0.000029
+('country', 'is', 'the') : 0.000029
+('country', 'has', 'the') : 0.000029
+('are', 'there', 'what') : 0.000029
+('who', 'created', 'the') : 0.000232
+('what', 'soft', 'drink') : 0.000029
+('what', 'does', 'an') : 0.000029
+('vietnam', 'war', 'what') : 0.000029
+('the', 'world', 'largest') : 0.000116
+('the', 'president', 'of') : 0.000232
+('the', 'nickname', 'of') : 0.000174
+('the', 'most', 'popular') : 0.000087
+('the', 'largest', 'city') : 0.000029
+('the', 'internet', 'what') : 0.000029
+('the', 'first', 'to') : 0.000087
+('of', 'the', 'united') : 0.000116
+('of', 'the', 'name') : 0.000029
+('member', 'of', 'the') : 0.000116
+('made', 'of', 'what') : 0.000029
+('is', 'the', 'oldest') : 0.000058
+('is', 'the', 'longest') : 0.000029
+('is', 'the', 'chemical') : 0.000029
+('is', 'the', 'capital') : 0.000029
+('how', 'much', 'does') : 0.000029
+('do', 'you', 'call') : 0.000029
+('city', 'is', 'the') : 0.000029
+('city', 'in', 'the') : 0.000029
+('can', 'find', 'out') : 0.000029
+('can', 'find', 'information') : 0.000029
+('are', 'the', 'names') : 0.000116
+('year', 'did', 'the') : 0.000029
+('why', 'is', 'the') : 0.000029
+('why', 'did', 'the') : 0.000029
+('why', 'are', 'there') : 0.000029
+('who', 'are', 'the') : 0.000203
+('what', 'part', 'of') : 0.000029
+('war', 'what', 'is') : 0.000029
+('us', 'what', 'is') : 0.000029
+('to', 'fame', 'of') : 0.000029
+('the', 'setting', 'for') : 0.000029
+('the', 'new', 'york') : 0.000174
+('the', 'kentucky', 'horse') : 0.000029
+('the', 'first', 'woman') : 0.000174
+('the', 'english', 'language') : 0.000058
+('the', 'city', 'of') : 0.000029
+('the', 'abbreviation', 'for') : 0.000029
+('south', 'america', 'what') : 0.000029
+('people', 'in', 'the') : 0.000087
+('on', 'the', 'moon') : 0.000087
+('of', 'the', 'week') : 0.000029
+('of', 'the', 'famous') : 0.000145
+('of', 'the', 'american') : 0.000116
+('of', 'all', 'the') : 0.000058
+('new', 'york', 'city') : 0.000116
+('name', 'who', 'was') : 0.000203
+('meaning', 'of', 'the') : 0.000029
+('los', 'angeles', 'what') : 0.000029
+('largest', 'city', 'in') : 0.000029
+('kentucky', 'horse', 'park') : 0.000029
+('is', 'the', 'fastest') : 0.000087
+('is', 'the', 'current') : 0.000087
+('in', 'the', 'english') : 0.000058

@@ -1,0 +1,830 @@
+what : 86
+stand : 40
+abbreviation : 16
+mean : 9
+national : 5
+investigation : 5
+bureau : 5
+acronym : 4
+when : 3
+used : 3
+name : 3
+letters : 3
+ioc : 3
+cpr : 3
+computer : 3
+cnn : 3
+abbreviated : 3
+zip : 2
+ts : 2
+rem : 2
+pm : 2
+motors : 2
+general : 2
+full : 2
+form : 2
+equation : 2
+emc2 : 2
+dc : 2
+word : 1
+way : 1
+washington : 1
+vcr : 1
+ussr : 1
+usb : 1
+trinitrotoluene : 1
+term : 1
+system : 1
+svhs : 1
+surnames : 1
+sos : 1
+snafu : 1
+sids : 1
+shield : 1
+scsi : 1
+sap : 1
+root : 1
+rock : 1
+ribbon : 1
+reading : 1
+rcd : 1
+rca : 1
+rating : 1
+ram : 1
+purchased : 1
+psi : 1
+products : 1
+prefix : 1
+port : 1
+plo : 1
+phrase : 1
+ph : 1
+partnership : 1
+particularly : 1
+original : 1
+olympic : 1
+oas : 1
+number : 1
+nn : 1
+necrosis : 1
+nasdaq : 1
+nasa : 1
+nafta : 1
+msg : 1
+ms : 1
+mrs : 1
+miss : 1
+mikhail : 1
+middle : 1
+micro : 1
+many : 1
+manufacturer : 1
+lol : 1
+lmds : 1
+limited : 1
+letter : 1
+laser : 1
+jesus : 1
+jessica : 1
+irish : 1
+iq : 1
+international : 1
+inri : 1
+initial : 1
+ibm : 1
+html : 1
+hiv : 1
+hdlc : 1
+group : 1
+gorbachev : 1
+gmt : 1
+fubu : 1
+fame : 1
+expression : 1
+espn : 1
+equipment : 1
+eliot : 1
+electrical : 1
+ekg : 1
+eg : 1
+efficiency : 1
+eenty : 1
+dtmf : 1
+dsl : 1
+deet : 1
+cwt : 1
+cross : 1
+correct : 1
+conditioner : 1
+company : 1
+committee : 1
+com : 1
+code : 1
+clothing : 1
+classified : 1
+channel : 1
+ce : 1
+cc : 1
+byob : 1
+business : 1
+bud : 1
+btu : 1
+bph : 1
+bottom : 1
+bmw : 1
+blue : 1
+beer : 1
+aw : 1
+air : 1
+aids : 1
+afs : 1
+ads : 1
+abbreviate : 1
+('what', 'does') : 48
+('stand', 'for') : 40
+('what', 'is') : 30
+('for', 'what') : 30
+('is', 'the') : 16
+('the', 'abbreviation') : 14
+('does', 'the') : 12
+('mean', 'what') : 7
+('abbreviation', 'for') : 7
+('the', 'national') : 5
+('of', 'the') : 5
+('of', 'investigation') : 5
+('national', 'bureau') : 5
+('investigation', 'what') : 5
+('in', 'the') : 5
+('for', 'in') : 5
+('bureau', 'of') : 5
+('abbreviation', 'of') : 5
+('for', 'the') : 4
+('what', 'what') : 3
+('what', 'do') : 3
+('the', 'letters') : 3
+('the', 'acronym') : 3
+('the', 'abbreviated') : 3
+('do', 'the') : 3
+('computer', 'what') : 3
+('acronym', 'for') : 3
+('when', 'used') : 2
+('what', 'the') : 2
+('the', 'stand') : 2
+('the', 'full') : 2
+('the', 'equation') : 2
+('motors', 'what') : 2
+('ioc', 'stand') : 2
+('general', 'motors') : 2
+('form', 'of') : 2
+('for', 'when') : 2
+('for', 'on') : 2
+('for', 'cnn') : 2
+('for', 'as') : 2
+('equation', 'emc2') : 2
+('emc2', 'what') : 2
+('cnn', 'is') : 2
+('as', 'in') : 2
+('an', 'abbreviation') : 2
+('zip', 'stand') : 1
+('zip', 'code') : 1
+('word', 'laser') : 1
+('when', 'reading') : 1
+('way', 'to') : 1
+('washington', 'dc') : 1
+('vcr', 'stand') : 1
+('ussr', 'stand') : 1
+('used', 'on') : 1
+('used', 'for') : 1
+('used', 'as') : 1
+('usb', 'port') : 1
+('ts', 'stand') : 1
+('ts', 'eliot') : 1
+('trinitrotoluene', 'what') : 1
+('to', 'abbreviate') : 1
+('the', 'word') : 1
+('the', 'ts') : 1
+('the', 'rock') : 1
+('the', 'rating') : 1
+('the', 'plo') : 1
+('the', 'phrase') : 1
+('the', 'number') : 1
+('the', 'international') : 1
+('the', 'correct') : 1
+('the', 'computer') : 1
+('the', 'company') : 1
+('the', 'channel') : 1
+('the', 'bottom') : 1
+('the', 'blue') : 1
+('term', 'used') : 1
+('system', 'for') : 1
+('svhs', 'what') : 1
+('surnames', 'what') : 1
+('sos', 'stand') : 1
+('so', 'many') : 1
+('snafu', 'stand') : 1
+('sids', 'stand') : 1
+('shield', 'stand') : 1
+('scsi', 'mean') : 1
+('sap', 'what') : 1
+('root', 'beer') : 1
+('rock', 'group') : 1
+('ribbon', 'stand') : 1
+('rem', 'what') : 1
+('rem', 'stand') : 1
+('reading', 'classified') : 1
+('rcd', 'what') : 1
+('rca', 'stand') : 1
+('rating', 'system') : 1
+('ram', 'in') : 1
+('purchased', 'now') : 1
+('psi', 'stand') : 1
+('products', 'particularly') : 1
+('prefix', 'in') : 1
+('port', 'on') : 1
+('pm', 'what') : 1
+('pm', 'an') : 1
+('plo', 'what') : 1
+('phrase', 'zip') : 1
+('ph', 'stand') : 1
+('partnership', 'what') : 1
+('particularly', 'electrical') : 1
+('original', 'equipment') : 1
+('on', 'so') : 1
+('on', 'jesus') : 1
+('on', 'fubu') : 1
+('on', 'computer') : 1
+('olympic', 'committee') : 1
+('of', 'what') : 1
+('of', 'root') : 1
+('of', 'general') : 1
+('of', 'com') : 1
+('of', 'business') : 1
+('oas', 'stand') : 1
+('number', 'stand') : 1
+('now', 'what') : 1
+('nn', 'mean') : 1
+('necrosis', 'mean') : 1
+('nasdaq', 'stand') : 1
+('nasa', 'stand') : 1
+('name', 'what') : 1
+('name', 'of') : 1
+('name', 'general') : 1
+('nafta', 'stand') : 1
+('msg', 'stand') : 1
+('ms', 'miss') : 1
+('mrs', 'stand') : 1
+('miss', 'and') : 1
+('mikhail', 'gorbachev') : 1
+('middle', 'initial') : 1
+('micro', 'what') : 1
+('mean', 'when') : 1
+('mean', 'in') : 1
+('many', 'products') : 1
+('manufacturer', 'what') : 1
+('lol', 'mean') : 1
+('lmds', 'what') : 1
+('limited', 'partnership') : 1
+('letters', 'zip') : 1
+('letters', 'dc') : 1
+('letters', 'ce') : 1
+('letter', 'what') : 1
+('laser', 'mean') : 1
+('jesus', 'cross') : 1
+('jessica', 'mean') : 1
+('is', 'usb') : 1
+('is', 'svhs') : 1
+('is', 'sap') : 1
+('is', 'rcd') : 1
+('is', 'ram') : 1
+('is', 'pm') : 1
+('is', 'mikhail') : 1
+('is', 'lmds') : 1
+('is', 'ioc') : 1
+('is', 'html') : 1
+('is', 'hdlc') : 1
+('is', 'dtmf') : 1
+('is', 'dsl') : 1
+('is', 'deet') : 1
+('is', 'bph') : 1
+('is', 'an') : 1
+('is', 'afs') : 1
+('irish', 'surnames') : 1
+('iq', 'stand') : 1
+('ioc', 'an') : 1
+('international', 'olympic') : 1
+('inri', 'stand') : 1
+('initial', 'what') : 1
+('in', 'washington') : 1
+('in', 'ts') : 1
+('in', 'pm') : 1
+('in', 'irish') : 1
+('in', 'computer') : 1
+('ibm', 'stand') : 1
+('html', 'what') : 1
+('hiv', 'stand') : 1
+('hdlc', 'what') : 1
+('group', 'rem') : 1
+('gorbachev', 'middle') : 1
+('gmt', 'stand') : 1
+('full', 'name') : 1
+('full', 'form') : 1
+('fubu', 'clothing') : 1
+('for', 'trinitrotoluene') : 1
+('for', 'original') : 1
+('for', 'micro') : 1
+('for', 'limited') : 1
+('for', 'cpr') : 1
+('for', 'air') : 1
+('fame', 'stand') : 1
+('expression', 'for') : 1
+('espn', 'stand') : 1
+('equipment', 'manufacturer') : 1
+('eliot', 'name') : 1
+('electrical', 'purchased') : 1
+('ekg', 'stand') : 1
+('eg', 'stand') : 1
+('efficiency', 'what') : 1
+('eenty', 'what') : 1
+('dtmf', 'what') : 1
+('does', 'vcr') : 1
+('does', 'ussr') : 1
+('does', 'sos') : 1
+('does', 'snafu') : 1
+('does', 'sids') : 1
+('does', 'shield') : 1
+('does', 'scsi') : 1
+('does', 'rem') : 1
+('does', 'rca') : 1
+('does', 'psi') : 1
+('does', 'ph') : 1
+('does', 'nn') : 1
+('does', 'necrosis') : 1
+('does', 'nasdaq') : 1
+('does', 'nasa') : 1
+('does', 'nafta') : 1
+('does', 'msg') : 1
+('does', 'ms') : 1
+('does', 'lol') : 1
+('does', 'jessica') : 1
+('does', 'iq') : 1
+('does', 'ioc') : 1
+('does', 'inri') : 1
+('does', 'ibm') : 1
+('does', 'hiv') : 1
+('does', 'gmt') : 1
+('does', 'ekg') : 1
+('does', 'eg') : 1
+('does', 'eenty') : 1
+('does', 'cpr') : 1
+('does', 'cnn') : 1
+('does', 'byob') : 1
+('does', 'bud') : 1
+('does', 'btu') : 1
+('does', 'bmw') : 1
+('does', 'aw') : 1
+('deet', 'what') : 1
+('dc', 'what') : 1
+('dc', 'stand') : 1
+('cwt', 'what') : 1
+('cross', 'what') : 1
+('cpr', 'stand') : 1
+('cpr', 'mean') : 1
+('cpr', 'is') : 1
+('correct', 'way') : 1
+('conditioner', 'efficiency') : 1
+('company', 'name') : 1
+('committee', 'what') : 1
+('com', 'what') : 1
+('code', 'what') : 1
+('cnn', 'stand') : 1
+('clothing', 'what') : 1
+('classified', 'ads') : 1
+('channel', 'espn') : 1
+('ce', 'stand') : 1
+('cc', 'at') : 1
+('byob', 'mean') : 1
+('business', 'letter') : 1
+('bud', 'stand') : 1
+('btu', 'mean') : 1
+('bph', 'what') : 1
+('bottom', 'of') : 1
+('bmw', 'stand') : 1
+('blue', 'ribbon') : 1
+('beer', 'fame') : 1
+('aw', 'of') : 1
+('at', 'the') : 1
+('as', 'prefix') : 1
+('and', 'mrs') : 1
+('an', 'acronym') : 1
+('air', 'conditioner') : 1
+('aids', 'stand') : 1
+('afs', 'what') : 1
+('ads', 'what') : 1
+('acronym', 'cpr') : 1
+('abbreviation', 'oas') : 1
+('abbreviation', 'ioc') : 1
+('abbreviation', 'cwt') : 1
+('abbreviation', 'aids') : 1
+('abbreviated', 'term') : 1
+('abbreviated', 'form') : 1
+('abbreviated', 'expression') : 1
+('abbreviate', 'cc') : 1
+('stand', 'for', 'what') : 27
+('what', 'is', 'the') : 14
+('for', 'what', 'does') : 13
+('what', 'does', 'the') : 12
+('for', 'what', 'is') : 12
+('is', 'the', 'abbreviation') : 8
+('the', 'abbreviation', 'for') : 6
+('mean', 'what', 'does') : 6
+('the', 'national', 'bureau') : 5
+('stand', 'for', 'in') : 5
+('of', 'investigation', 'what') : 5
+('national', 'bureau', 'of') : 5
+('bureau', 'of', 'investigation') : 5
+('the', 'abbreviation', 'of') : 4
+('does', 'the', 'abbreviation') : 4
+('what', 'what', 'does') : 3
+('what', 'do', 'the') : 3
+('is', 'the', 'abbreviated') : 3
+('investigation', 'what', 'is') : 3
+('for', 'what', 'what') : 3
+('for', 'the', 'national') : 3
+('for', 'in', 'the') : 3
+('do', 'the', 'letters') : 3
+('abbreviation', 'of', 'the') : 3
+('what', 'the', 'abbreviation') : 2
+('the', 'stand', 'for') : 2
+('the', 'equation', 'emc2') : 2
+('the', 'acronym', 'for') : 2
+('stand', 'for', 'when') : 2
+('stand', 'for', 'on') : 2
+('stand', 'for', 'cnn') : 2
+('of', 'the', 'national') : 2
+('motors', 'what', 'does') : 2
+('is', 'the', 'full') : 2
+('is', 'the', 'acronym') : 2
+('ioc', 'stand', 'for') : 2
+('investigation', 'what', 'does') : 2
+('in', 'the', 'equation') : 2
+('general', 'motors', 'what') : 2
+('for', 'what', 'the') : 2
+('for', 'cnn', 'is') : 2
+('for', 'as', 'in') : 2
+('equation', 'emc2', 'what') : 2
+('does', 'the', 'stand') : 2
+('computer', 'what', 'does') : 2
+('acronym', 'for', 'the') : 2
+('abbreviation', 'for', 'what') : 2
+('zip', 'stand', 'for') : 1
+('zip', 'code', 'what') : 1
+('word', 'laser', 'mean') : 1
+('when', 'used', 'on') : 1
+('when', 'used', 'as') : 1
+('when', 'reading', 'classified') : 1
+('what', 'is', 'usb') : 1
+('what', 'is', 'svhs') : 1
+('what', 'is', 'sap') : 1
+('what', 'is', 'rcd') : 1
+('what', 'is', 'ram') : 1
+('what', 'is', 'pm') : 1
+('what', 'is', 'mikhail') : 1
+('what', 'is', 'lmds') : 1
+('what', 'is', 'ioc') : 1
+('what', 'is', 'html') : 1
+('what', 'is', 'hdlc') : 1
+('what', 'is', 'dtmf') : 1
+('what', 'is', 'dsl') : 1
+('what', 'is', 'deet') : 1
+('what', 'is', 'bph') : 1
+('what', 'is', 'afs') : 1
+('what', 'does', 'vcr') : 1
+('what', 'does', 'ussr') : 1
+('what', 'does', 'sos') : 1
+('what', 'does', 'snafu') : 1
+('what', 'does', 'sids') : 1
+('what', 'does', 'shield') : 1
+('what', 'does', 'scsi') : 1
+('what', 'does', 'rem') : 1
+('what', 'does', 'rca') : 1
+('what', 'does', 'psi') : 1
+('what', 'does', 'ph') : 1
+('what', 'does', 'nn') : 1
+('what', 'does', 'necrosis') : 1
+('what', 'does', 'nasdaq') : 1
+('what', 'does', 'nasa') : 1
+('what', 'does', 'nafta') : 1
+('what', 'does', 'msg') : 1
+('what', 'does', 'ms') : 1
+('what', 'does', 'lol') : 1
+('what', 'does', 'jessica') : 1
+('what', 'does', 'iq') : 1
+('what', 'does', 'ioc') : 1
+('what', 'does', 'inri') : 1
+('what', 'does', 'ibm') : 1
+('what', 'does', 'hiv') : 1
+('what', 'does', 'gmt') : 1
+('what', 'does', 'ekg') : 1
+('what', 'does', 'eg') : 1
+('what', 'does', 'eenty') : 1
+('what', 'does', 'cpr') : 1
+('what', 'does', 'cnn') : 1
+('what', 'does', 'byob') : 1
+('what', 'does', 'bud') : 1
+('what', 'does', 'btu') : 1
+('what', 'does', 'bmw') : 1
+('what', 'does', 'aw') : 1
+('way', 'to', 'abbreviate') : 1
+('washington', 'dc', 'what') : 1
+('vcr', 'stand', 'for') : 1
+('ussr', 'stand', 'for') : 1
+('used', 'on', 'jesus') : 1
+('used', 'for', 'the') : 1
+('used', 'as', 'prefix') : 1
+('usb', 'port', 'on') : 1
+('ts', 'stand', 'for') : 1
+('ts', 'eliot', 'name') : 1
+('trinitrotoluene', 'what', 'is') : 1
+('to', 'abbreviate', 'cc') : 1
+('the', 'word', 'laser') : 1
+('the', 'ts', 'stand') : 1
+('the', 'rock', 'group') : 1
+('the', 'rating', 'system') : 1
+('the', 'plo', 'what') : 1
+('the', 'phrase', 'zip') : 1
+('the', 'number', 'stand') : 1
+('the', 'letters', 'zip') : 1
+('the', 'letters', 'dc') : 1
+('the', 'letters', 'ce') : 1
+('the', 'international', 'olympic') : 1
+('the', 'full', 'name') : 1
+('the', 'full', 'form') : 1
+('the', 'correct', 'way') : 1
+('the', 'computer', 'what') : 1
+('the', 'company', 'name') : 1
+('the', 'channel', 'espn') : 1
+('the', 'bottom', 'of') : 1
+('the', 'blue', 'ribbon') : 1
+('the', 'acronym', 'cpr') : 1
+('the', 'abbreviation', 'oas') : 1
+('the', 'abbreviation', 'ioc') : 1
+('the', 'abbreviation', 'cwt') : 1
+('the', 'abbreviation', 'aids') : 1
+('the', 'abbreviated', 'term') : 1
+('the', 'abbreviated', 'form') : 1
+('the', 'abbreviated', 'expression') : 1
+('term', 'used', 'for') : 1
+('system', 'for', 'air') : 1
+('svhs', 'what', 'is') : 1
+('surnames', 'what', 'does') : 1
+('stand', 'for', 'cpr') : 1
+('stand', 'for', 'as') : 1
+('sos', 'stand', 'for') : 1
+('so', 'many', 'products') : 1
+('snafu', 'stand', 'for') : 1
+('sids', 'stand', 'for') : 1
+('shield', 'stand', 'for') : 1
+('scsi', 'mean', 'what') : 1
+('sap', 'what', 'do') : 1
+('root', 'beer', 'fame') : 1
+('rock', 'group', 'rem') : 1
+('ribbon', 'stand', 'for') : 1
+('rem', 'what', 'does') : 1
+('rem', 'stand', 'for') : 1
+('reading', 'classified', 'ads') : 1
+('rcd', 'what', 'does') : 1
+('rca', 'stand', 'for') : 1
+('rating', 'system', 'for') : 1
+('ram', 'in', 'the') : 1
+('purchased', 'now', 'what') : 1
+('psi', 'stand', 'for') : 1
+('products', 'particularly', 'electrical') : 1
+('prefix', 'in', 'irish') : 1
+('port', 'on', 'computer') : 1
+('pm', 'what', 'does') : 1
+('pm', 'an', 'abbreviation') : 1
+('plo', 'what', 'does') : 1
+('phrase', 'zip', 'code') : 1
+('ph', 'stand', 'for') : 1
+('partnership', 'what', 'does') : 1
+('particularly', 'electrical', 'purchased') : 1
+('original', 'equipment', 'manufacturer') : 1
+('on', 'so', 'many') : 1
+('on', 'jesus', 'cross') : 1
+('on', 'fubu', 'clothing') : 1
+('on', 'computer', 'what') : 1
+('olympic', 'committee', 'what') : 1
+('of', 'what', 'is') : 1
+('of', 'the', 'plo') : 1
+('of', 'the', 'international') : 1
+('of', 'the', 'company') : 1
+('of', 'root', 'beer') : 1
+('of', 'general', 'motors') : 1
+('of', 'com', 'what') : 1
+('of', 'business', 'letter') : 1
+('oas', 'stand', 'for') : 1
+('number', 'stand', 'for') : 1
+('now', 'what', 'is') : 1
+('nn', 'mean', 'when') : 1
+('necrosis', 'mean', 'what') : 1
+('nasdaq', 'stand', 'for') : 1
+('nasa', 'stand', 'for') : 1
+('name', 'what', 'does') : 1
+('name', 'of', 'the') : 1
+('name', 'general', 'motors') : 1
+('nafta', 'stand', 'for') : 1
+('msg', 'stand', 'for') : 1
+('ms', 'miss', 'and') : 1
+('mrs', 'stand', 'for') : 1
+('miss', 'and', 'mrs') : 1
+('mikhail', 'gorbachev', 'middle') : 1
+('middle', 'initial', 'what') : 1
+('micro', 'what', 'does') : 1
+('mean', 'when', 'used') : 1
+('mean', 'what', 'is') : 1
+('mean', 'in', 'computer') : 1
+('many', 'products', 'particularly') : 1
+('manufacturer', 'what', 'does') : 1
+('lol', 'mean', 'what') : 1
+('lmds', 'what', 'does') : 1
+('limited', 'partnership', 'what') : 1
+('letters', 'zip', 'stand') : 1
+('letters', 'dc', 'stand') : 1
+('letters', 'ce', 'stand') : 1
+('letter', 'what', 'does') : 1
+('laser', 'mean', 'what') : 1
+('jesus', 'cross', 'what') : 1
+('jessica', 'mean', 'what') : 1
+('is', 'usb', 'port') : 1
+('is', 'the', 'correct') : 1
+('is', 'svhs', 'what') : 1
+('is', 'sap', 'what') : 1
+('is', 'rcd', 'what') : 1
+('is', 'ram', 'in') : 1
+('is', 'pm', 'an') : 1
+('is', 'mikhail', 'gorbachev') : 1
+('is', 'lmds', 'what') : 1
+('is', 'ioc', 'an') : 1
+('is', 'html', 'what') : 1
+('is', 'hdlc', 'what') : 1
+('is', 'dtmf', 'what') : 1
+('is', 'deet', 'what') : 1
+('is', 'bph', 'what') : 1
+('is', 'an', 'acronym') : 1
+('is', 'afs', 'what') : 1
+('irish', 'surnames', 'what') : 1
+('iq', 'stand', 'for') : 1
+('ioc', 'an', 'abbreviation') : 1
+('international', 'olympic', 'committee') : 1
+('inri', 'stand', 'for') : 1
+('initial', 'what', 'does') : 1
+('in', 'washington', 'dc') : 1
+('in', 'ts', 'eliot') : 1
+('in', 'the', 'rock') : 1
+('in', 'the', 'phrase') : 1
+('in', 'the', 'computer') : 1
+('in', 'pm', 'what') : 1
+('in', 'irish', 'surnames') : 1
+('in', 'computer', 'what') : 1
+('ibm', 'stand', 'for') : 1
+('html', 'what', 'does') : 1
+('hiv', 'stand', 'for') : 1
+('hdlc', 'what', 'is') : 1
+('group', 'rem', 'what') : 1
+('gorbachev', 'middle', 'initial') : 1
+('gmt', 'stand', 'for') : 1
+('full', 'name', 'of') : 1
+('full', 'form', 'of') : 1
+('fubu', 'clothing', 'what') : 1
+('form', 'of', 'the') : 1
+('form', 'of', 'com') : 1
+('for', 'when', 'used') : 1
+('for', 'when', 'reading') : 1
+('for', 'trinitrotoluene', 'what') : 1
+('for', 'the', 'rating') : 1
+('for', 'original', 'equipment') : 1
+('for', 'on', 'so') : 1
+('for', 'on', 'fubu') : 1
+('for', 'micro', 'what') : 1
+('for', 'limited', 'partnership') : 1
+('for', 'in', 'washington') : 1
+('for', 'in', 'ts') : 1
+('for', 'cpr', 'is') : 1
+('for', 'air', 'conditioner') : 1
+('fame', 'stand', 'for') : 1
+('expression', 'for', 'the') : 1
+('espn', 'stand', 'for') : 1
+('equipment', 'manufacturer', 'what') : 1
+('emc2', 'what', 'is') : 1
+('emc2', 'what', 'does') : 1
+('eliot', 'name', 'what') : 1
+('electrical', 'purchased', 'now') : 1
+('ekg', 'stand', 'for') : 1
+('eg', 'stand', 'for') : 1
+('efficiency', 'what', 'is') : 1
+('eenty', 'what', 'is') : 1
+('dtmf', 'what', 'does') : 1
+('does', 'vcr', 'stand') : 1
+('does', 'ussr', 'stand') : 1
+('does', 'the', 'word') : 1
+('does', 'the', 'ts') : 1
+('does', 'the', 'number') : 1
+('does', 'the', 'channel') : 1
+('does', 'the', 'blue') : 1
+('does', 'the', 'acronym') : 1
+('does', 'sos', 'stand') : 1
+('does', 'snafu', 'stand') : 1
+('does', 'sids', 'stand') : 1
+('does', 'shield', 'stand') : 1
+('does', 'scsi', 'mean') : 1
+('does', 'rem', 'stand') : 1
+('does', 'rca', 'stand') : 1
+('does', 'psi', 'stand') : 1
+('does', 'ph', 'stand') : 1
+('does', 'nn', 'mean') : 1
+('does', 'necrosis', 'mean') : 1
+('does', 'nasdaq', 'stand') : 1
+('does', 'nasa', 'stand') : 1
+('does', 'nafta', 'stand') : 1
+('does', 'msg', 'stand') : 1
+('does', 'ms', 'miss') : 1
+('does', 'lol', 'mean') : 1
+('does', 'jessica', 'mean') : 1
+('does', 'iq', 'stand') : 1
+('does', 'ioc', 'stand') : 1
+('does', 'inri', 'stand') : 1
+('does', 'ibm', 'stand') : 1
+('does', 'hiv', 'stand') : 1
+('does', 'gmt', 'stand') : 1
+('does', 'ekg', 'stand') : 1
+('does', 'eg', 'stand') : 1
+('does', 'eenty', 'what') : 1
+('does', 'cpr', 'stand') : 1
+('does', 'cnn', 'stand') : 1
+('does', 'byob', 'mean') : 1
+('does', 'bud', 'stand') : 1
+('does', 'btu', 'mean') : 1
+('does', 'bmw', 'stand') : 1
+('does', 'aw', 'of') : 1
+('deet', 'what', 'is') : 1
+('dc', 'what', 'does') : 1
+('dc', 'stand', 'for') : 1
+('cwt', 'what', 'do') : 1
+('cross', 'what', 'does') : 1
+('cpr', 'stand', 'for') : 1
+('cpr', 'mean', 'what') : 1
+('cpr', 'is', 'the') : 1
+('correct', 'way', 'to') : 1
+('conditioner', 'efficiency', 'what') : 1
+('computer', 'what', 'is') : 1
+('company', 'name', 'general') : 1
+('committee', 'what', 'is') : 1
+('com', 'what', 'does') : 1
+('code', 'what', 'do') : 1
+('cnn', 'stand', 'for') : 1
+('cnn', 'is', 'the') : 1
+('cnn', 'is', 'an') : 1
+('clothing', 'what', 'does') : 1
+('classified', 'ads', 'what') : 1
+('channel', 'espn', 'stand') : 1
+('ce', 'stand', 'for') : 1
+('cc', 'at', 'the') : 1
+('byob', 'mean', 'what') : 1
+('business', 'letter', 'what') : 1
+('bud', 'stand', 'for') : 1
+('btu', 'mean', 'in') : 1
+('bph', 'what', 'is') : 1
+('bottom', 'of', 'business') : 1
+('bmw', 'stand', 'for') : 1
+('blue', 'ribbon', 'stand') : 1
+('beer', 'fame', 'stand') : 1
+('aw', 'of', 'root') : 1
+('at', 'the', 'bottom') : 1
+('as', 'prefix', 'in') : 1
+('as', 'in', 'the') : 1
+('as', 'in', 'pm') : 1
+('and', 'mrs', 'stand') : 1
+('an', 'acronym', 'for') : 1
+('an', 'abbreviation', 'of') : 1
+('an', 'abbreviation', 'for') : 1
+('air', 'conditioner', 'efficiency') : 1
+('aids', 'stand', 'for') : 1
+('afs', 'what', 'is') : 1
+('ads', 'what', 'does') : 1
+('acronym', 'for', 'what') : 1
+('acronym', 'cpr', 'mean') : 1
+('abbreviation', 'of', 'what') : 1
+('abbreviation', 'of', 'general') : 1
+('abbreviation', 'oas', 'stand') : 1
+('abbreviation', 'ioc', 'stand') : 1
+('abbreviation', 'for', 'trinitrotoluene') : 1
+('abbreviation', 'for', 'original') : 1
+('abbreviation', 'for', 'micro') : 1
+('abbreviation', 'for', 'limited') : 1
+('abbreviation', 'for', 'as') : 1
+('abbreviation', 'cwt', 'what') : 1
+('abbreviation', 'aids', 'stand') : 1
+('abbreviated', 'term', 'used') : 1
+('abbreviated', 'form', 'of') : 1
+('abbreviated', 'expression', 'for') : 1
+('abbreviate', 'cc', 'at') : 1

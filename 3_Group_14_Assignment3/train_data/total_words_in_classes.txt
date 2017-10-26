@@ -1,0 +1,7 @@
+ENTY-Group.txt : 33291
+NUM-Group.txt : 23682
+LOC-Group.txt : 21210
+HUM-Group.txt : 33441
+ABBR-Group.txt : 1671
+DESC-Group.txt : 24714
+ENTY-Group.txt : 33291
